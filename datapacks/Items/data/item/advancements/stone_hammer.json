@@ -1,0 +1,13 @@
+{
+  "rewards": {
+    "function": "item:stone_hammer_craft"
+  },
+  "criteria": {
+    "Recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "item:stone_hammer"
+      }
+    }
+  }
+}

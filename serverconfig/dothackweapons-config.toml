@@ -1,0 +1,29 @@
+
+[general]
+	#Mine and Slash Compatibility
+	USE_COMPATIBILITY_ON_ITEMS = true
+	#Add loot to Mine and Slash Loot System
+	USE_MINESLASHLOOTSYSTEM = true
+	#Add loot to Chest loot system
+	USE_CHESTLOOTSYSTEM = true
+
+[gear]
+	#Axe Max Damage
+	AXE_MAXDAMAGE = 1000
+	#Sword Max Damage
+	SWORD_MAXDAMAGE = 1000
+	#Accessory Max Damage
+	ACCESSORY_MAXDAMAGE = 1000
+	#Bow Max Damage
+	BOW_MAXDAMAGE = 1000
+	#Lance Max Damage
+	LANCE_MAXDAMAGE = 1000
+	#Hand Weapons Max Damage
+	HANDWEAPON_MAXDAMAGE = 1000
+	#Staff Max Damage
+	STAFF_MAXDAMAGE = 1000
+	#Broad Max Damage
+	BROAD_MAXDAMAGE = 1000
+	#Scythe Max Damage
+	SCYTHE_MAXDAMAGE = 1000
+

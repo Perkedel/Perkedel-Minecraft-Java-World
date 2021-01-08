@@ -1,0 +1,6 @@
+
+#Server configuration settings
+[server]
+	#Allow breaking bedrock with dragon eggs in lazy chunks (y=0 is excluded)
+	bedrockBreaking = true
+

@@ -1,0 +1,83 @@
+Leather
+- Speed
+
+
+Chainmail
+- Resistance
+
+
+Iron
+- Resistance II
+- Holding an Iron Sword gives Strength
+
+
+Gold
+- Regeneration
+- Absorption III (Applies itself once a minute)
+- Slowness
+
+
+Diamond
+- Resistance II
+- Absorption (Applies itself once a minute)
+- Holding a Shield gives Resistance III
+- Holding a Diamond Sword gives Strength
+
+
+Netherite
+- Absorption II (Applies itself once a minute)
+- Resistance III
+- Fire Resistance
+- Holding a Shield gives Resistance IV
+- Holding a Netherite Sword gives Strength
+
+
+Turtle Set (Turtle Shell (w/ Respiration III and Aqua Affinity), Diamond Chestplate, Diamond Leggings, Diamond Boots (w/ Depth Strider III))
+- Resistance
+- Absorption (Applies itself once a minute)
+- Holding a Shield in the offhand gives Resistance II
+- Holding a Riptide III Trident causes it to rain
+
+
+Master Turtle Set (Turtle Shell (w/ Respiration III and Aqua Affinity), Netherite Chestplate, Netherite Leggings, Netherite Boots (w/ Depth Strider III))
+- Absorption II (Applies itself once a minute)
+- Resistance II
+- Water Breathing
+- Holding a Shield in the offhand gives Resistance III
+- Holding a Riptide III Trident causes it to rain
+- Holding a Channeling Trident causes it to thunder
+
+
+Thunderbolt Set (Turtle Shell (w/ Respiration III and Aqua Affinity), Elytra, Netherite Leggings, Netherite Boots (w/ Depth Strider III and Feather Falling IV))
+- Absorption II (Applies itself once a minute)
+- Resistance II
+- Fire Resistance
+- Holding a Shield in the offhand gives Resistance III
+- Holding a Riptide III Trident causes it to rain
+
+
+Elytra Set (Diamond Helmet, Elytra, Diamond Leggings, Diamond Boots)
+- Resistance II
+- Absorption (Applies itself once a minute)
+- Holding a Shield gives Resistance III
+- Holding a Diamond Sword gives Strength
+
+
+Ultimate Elytra Set (Netherite Helmet, Elytra, Netherite Leggings, Netherite Boots)
+- Absorption II (Applies itself once a minute)
+- Resistance III
+- Fire Resistance
+- Holding a Shield gives Resistance IV
+- Holding a Netherite Sword gives Strength
+
+
+God Set (Netherite Helmet (w/ Mending, Unbreaking III, Protection IV, Thorns III, Respiration III and Aqua Affinity), Netherite Chestplate (w/ Mending, Unbreaking III, Protection IV and Thorns III), Netherite Leggings (w/ Mending, Unbreaking III, Protection IV and Thorns III), Netherite Boots (w/ Mending, Unbreaking III, Protection IV, Thorns III, Feather Falling IV and Soul Speed III))
+- Absorption X (Applies itself once every two minutes)
+- Resistance IV
+- Fire Resistance
+- Speed II
+- Water Breathing
+- Holding a Shield gives Resistance V
+- Holding a Sharpness V Netherite Sword or Sharpness V Netherite Axe gives Strength II
+- Depth Strider III Boots gives Dolphins Grace when standing or swimming in water
+- Frost Walker II Boots gives Speed IV when walking on Frosted Ice

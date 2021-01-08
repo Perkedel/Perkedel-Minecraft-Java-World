@@ -1,0 +1,1264 @@
+
+[general]
+	#Maximum total transfer rate between bulbs, default: 30
+	#Range: 0 ~ 10000
+	maxTransferRate = 30
+	#Max quantity of fluid pumped per tick, default: 30
+	#Range: 0 ~ 10000
+	pumpTransferRate = 30
+	#Maximum total amount of goo in a single bulb, default: 16000
+	#Range: 0 ~ 100000
+	maxBulbCapacity = 16000
+	#Max quantity of fluid held in a basin, default: 8000
+	#Range: 0 ~ 100000
+	basinCapacity = 8000
+	#Enchanted holding capacity of bulbs is multiplied by this, per level, default: 4
+	#Range: 0 ~ 10
+	bulbHoldingMultiplier = 4
+	#Enchanted holding capacity of basins is multiplied by this, per level, default: 4
+	#Range: 0 ~ 10
+	basinHoldingMultiplier = 4
+	#Held ticks threshold for radial menu to open, default: 10
+	#Range: 10 ~ 60
+	heldTicksRadialMenuThreshold = 10
+	#Mining blast reach of energetic goo, default: 1
+	#Range: 1 ~ 10
+	energeticMiningBlastDistance = 1
+	#Maximum total amount of goo in a single mixer input tank, default: 16000
+	#Range: 0 ~ 100000
+	maxMixerInputCapacity = 16000
+	#Maximum total amount of goo in a crucible tank, default: 16000
+	#Range: 0 ~ 100000
+	maxCrucibleInputCapacity = 16000
+	#Maximum total processing rate of gooifiers and solidifiers, default: 15
+	#Range: 0 ~ 10000
+	maxProcessingRate = 15
+	#Enchanted holding capacity of gauntlets is multiplied by this, per level, default: 4
+	#Range: 0 ~ 10
+	gauntletHoldingMultiplier = 4
+	#Max quantity of fluid held on a gauntlet, default: 400
+	#Range: 0 ~ 1000000
+	gauntletCapacity = 400
+
+	[general."goo:energetic_goo"]
+		#Cooldown of splat interaction mining_blast, default:0
+		#Range: 0 ~ 1000
+		mining_blast_cooldown = 0
+		#Chance of interaction failure mining_blast, 1 to disable, default:0.0
+		#Range: 0.0 ~ 1.0
+		mining_blast_fail_chance = 0.0
+		#Chance of blob interaction mining_blast, 0 to disable, default:1.0
+		#Range: 0.0 ~ 1.0
+		mining_blast_chance = 1.0
+		#Thrown amount of goo:energetic_goo, -1 to disable, default: [I@26089a02
+		#Range: -1 ~ 1000
+		thrown_amount = 16
+		#Cost of splat interaction mining_blast, -1 to disable, default:16
+		#Range: -1 ~ 1000
+		mining_blast = 16
+		#Chance of blob cost deduction mining_blast, 0 is free, default:1.0
+		#Range: 0.0 ~ 1.0
+		mining_blast_drain_chance = 1.0
+
+	[general."goo:obsidian_goo"]
+		#Chance of blob cost deduction obsidian_breaker, 0 is free, default:1.0
+		#Range: 0.0 ~ 1.0
+		obsidian_breaker_drain_chance = 1.0
+		#Chance of blob interaction obsidian_breaker, 0 to disable, default:1.0
+		#Range: 0.0 ~ 1.0
+		obsidian_breaker_chance = 1.0
+		#Cost of splat interaction obsidian_breaker, -1 to disable, default:2
+		#Range: -1 ~ 1000
+		obsidian_breaker = 2
+		#Thrown amount of goo:obsidian_goo, -1 to disable, default: [I@1f292e6f
+		#Range: -1 ~ 1000
+		thrown_amount = 2
+		#Chance of interaction failure obsidian_breaker, 1 to disable, default:0.0
+		#Range: 0.0 ~ 1.0
+		obsidian_breaker_fail_chance = 0.0
+		#Cooldown of splat interaction obsidian_breaker, default:0
+		#Range: 0 ~ 1000
+		obsidian_breaker_cooldown = 0
+
+	[general."goo:honey_goo"]
+		#Chance of interaction failure trap_living, 1 to disable, default:0.0
+		#Range: 0.0 ~ 1.0
+		trap_living_fail_chance = 0.0
+		#Cost of splat interaction trap_living, -1 to disable, default:1
+		#Range: -1 ~ 1000
+		trap_living = 1
+		#Chance of blob cost deduction trap_living, 0 is free, default:0.01
+		#Range: 0.0 ~ 1.0
+		trap_living_drain_chance = 0.01
+		#Thrown amount of goo:honey_goo, -1 to disable, default: [I@66671a60
+		#Range: -1 ~ 1000
+		thrown_amount = 16
+		#Chance of blob interaction trap_living, 0 to disable, default:1.0
+		#Range: 0.0 ~ 1.0
+		trap_living_chance = 1.0
+		#Cooldown of splat interaction trap_living, default:0
+		#Range: 0 ~ 1000
+		trap_living_cooldown = 0
+
+	[general."goo:logic_goo"]
+		#Chance of blob interaction logic_pulse, 0 to disable, default:1.0
+		#Range: 0.0 ~ 1.0
+		logic_pulse_chance = 1.0
+		#Cost of splat interaction logic_pulse, -1 to disable, default:1
+		#Range: -1 ~ 1000
+		logic_pulse = 1
+		#Cooldown of splat interaction logic_pulse, default:0
+		#Range: 0 ~ 1000
+		logic_pulse_cooldown = 0
+		#Thrown amount of goo:logic_goo, -1 to disable, default: [I@2a4d1d27
+		#Range: -1 ~ 1000
+		thrown_amount = 16
+		#Chance of blob cost deduction logic_pulse, 0 is free, default:0.01
+		#Range: 0.0 ~ 1.0
+		logic_pulse_drain_chance = 0.01
+		#Chance of interaction failure logic_pulse, 1 to disable, default:0.0
+		#Range: 0.0 ~ 1.0
+		logic_pulse_fail_chance = 0.0
+
+	[general."goo:vital_goo"]
+		#Chance of blob cost deduction vital_pulse, 0 is free, default:0.5
+		#Range: 0.0 ~ 1.0
+		vital_pulse_drain_chance = 0.5
+		#Chance of blob interaction vital_pulse, 0 to disable, default:1.0
+		#Range: 0.0 ~ 1.0
+		vital_pulse_chance = 1.0
+		#Cooldown of splat interaction vital_pulse, default:0
+		#Range: 0 ~ 1000
+		vital_pulse_cooldown = 0
+		#Cost of splat interaction vital_pulse, -1 to disable, default:1
+		#Range: -1 ~ 1000
+		vital_pulse = 1
+		#Thrown amount of goo:vital_goo, -1 to disable, default: [I@6f804500
+		#Range: -1 ~ 1000
+		thrown_amount = 16
+		#Chance of interaction failure vital_pulse, 1 to disable, default:0.0
+		#Range: 0.0 ~ 1.0
+		vital_pulse_fail_chance = 0.0
+
+	[general."goo:radiant_goo"]
+		#Chance of blob cost deduction radiant_light, 0 is free, default:1.0
+		#Range: 0.0 ~ 1.0
+		radiant_light_drain_chance = 1.0
+		#Cost of splat interaction radiant_light, -1 to disable, default:4
+		#Range: -1 ~ 1000
+		radiant_light = 4
+		#Chance of blob interaction radiant_light, 0 to disable, default:1.0
+		#Range: 0.0 ~ 1.0
+		radiant_light_chance = 1.0
+		#Cooldown of splat interaction radiant_light, default:0
+		#Range: 0 ~ 1000
+		radiant_light_cooldown = 0
+		#Thrown amount of goo:radiant_goo, -1 to disable, default: [I@572f51f0
+		#Range: -1 ~ 1000
+		thrown_amount = 4
+		#Chance of interaction failure radiant_light, 1 to disable, default:0.0
+		#Range: 0.0 ~ 1.0
+		radiant_light_fail_chance = 0.0
+
+	[general."goo:decay_goo"]
+		#Cost of blob interaction destroy_grass, -1 to disable, default:2
+		#Range: -1 ~ 1000
+		destroy_grass = 2
+		#Chance of blob interaction death_pulse, 0 to disable, default:1.0
+		#Range: 0.0 ~ 1.0
+		death_pulse_chance = 1.0
+		#Chance of blob interaction destroy_bushes, 0 to disable, default:1.0
+		#Range: 0.0 ~ 1.0
+		destroy_bushes_chance = 1.0
+		#Chance of interaction failure destroy_lilypad, 1 to disable, default:0.0
+		#Range: 0.0 ~ 1.0
+		destroy_lilypad_fail_chance = 0.0
+		#Chance of blob interaction destroy_crops, 0 to disable, default:1.0
+		#Range: 0.0 ~ 1.0
+		destroy_crops_chance = 1.0
+		#Cost of blob interaction destroy_sugar_cane, -1 to disable, default:2
+		#Range: -1 ~ 1000
+		destroy_sugar_cane = 2
+		#Chance of interaction failure destroy_cactus, 1 to disable, default:0.0
+		#Range: 0.0 ~ 1.0
+		destroy_cactus_fail_chance = 0.0
+		#Chance of interaction failure strip_log, 1 to disable, default:0.0
+		#Range: 0.0 ~ 1.0
+		strip_log_fail_chance = 0.0
+		#Chance of blob interaction deteriorate_gravel, 0 to disable, default:1.0
+		#Range: 0.0 ~ 1.0
+		deteriorate_gravel_chance = 1.0
+		#Chance of interaction failure destroy_grass, 1 to disable, default:0.0
+		#Range: 0.0 ~ 1.0
+		destroy_grass_fail_chance = 0.0
+		#Chance of blob interaction deteriorate_nylium, 0 to disable, default:1.0
+		#Range: 0.0 ~ 1.0
+		deteriorate_nylium_chance = 1.0
+		#Chance of blob cost deduction death_pulse, 0 is free, default:1.0
+		#Range: 0.0 ~ 1.0
+		death_pulse_drain_chance = 1.0
+		#Chance of interaction failure deteriorate_sand_stone, 1 to disable, default:0.0
+		#Range: 0.0 ~ 1.0
+		deteriorate_sand_stone_fail_chance = 0.0
+		#Chance of blob cost deduction destroy_leaves, 0 is free, default:1.0
+		#Range: 0.0 ~ 1.0
+		destroy_leaves_drain_chance = 1.0
+		#Chance of interaction failure death_pulse, 1 to disable, default:0.0
+		#Range: 0.0 ~ 1.0
+		death_pulse_fail_chance = 0.0
+		#Cost of blob interaction destroy_bamboo, -1 to disable, default:2
+		#Range: -1 ~ 1000
+		destroy_bamboo = 2
+		#Chance of interaction failure destroy_crops, 1 to disable, default:0.0
+		#Range: 0.0 ~ 1.0
+		destroy_crops_fail_chance = 0.0
+		#Chance of blob cost deduction deteriorate_sand_stone, 0 is free, default:1.0
+		#Range: 0.0 ~ 1.0
+		deteriorate_sand_stone_drain_chance = 1.0
+		#Cooldown of splat interaction strip_stem, default:0
+		#Range: 0 ~ 1000
+		strip_stem_cooldown = 0
+		#Chance of blob interaction deteriorate_dirt, 0 to disable, default:1.0
+		#Range: 0.0 ~ 1.0
+		deteriorate_dirt_chance = 1.0
+		#Cooldown of splat interaction deteriorate_mycelium, default:0
+		#Range: 0 ~ 1000
+		deteriorate_mycelium_cooldown = 0
+		#Chance of blob interaction deteriorate_podzol, 0 to disable, default:1.0
+		#Range: 0.0 ~ 1.0
+		deteriorate_podzol_chance = 1.0
+		#Chance of blob cost deduction destroy_bushes, 0 is free, default:1.0
+		#Range: 0.0 ~ 1.0
+		destroy_bushes_drain_chance = 1.0
+		#Cost of splat interaction deteriorate_cobblestone, -1 to disable, default:16
+		#Range: -1 ~ 1000
+		deteriorate_cobblestone = 16
+		#Chance of blob cost deduction deteriorate_dirt, 0 is free, default:1.0
+		#Range: 0.0 ~ 1.0
+		deteriorate_dirt_drain_chance = 1.0
+		#Chance of interaction failure destroy_bamboo, 1 to disable, default:0.0
+		#Range: 0.0 ~ 1.0
+		destroy_bamboo_fail_chance = 0.0
+		#Chance of blob interaction destroy_sugar_cane, 0 to disable, default:1.0
+		#Range: 0.0 ~ 1.0
+		destroy_sugar_cane_chance = 1.0
+		#Chance of blob interaction destroy_sapling, 0 to disable, default:1.0
+		#Range: 0.0 ~ 1.0
+		destroy_sapling_chance = 1.0
+		#Chance of interaction failure deteriorate_cobblestone, 1 to disable, default:0.0
+		#Range: 0.0 ~ 1.0
+		deteriorate_cobblestone_fail_chance = 0.0
+		#Cost of splat interaction deteriorate_gravel, -1 to disable, default:16
+		#Range: -1 ~ 1000
+		deteriorate_gravel = 16
+		#Chance of interaction failure eat_moss, 1 to disable, default:0.0
+		#Range: 0.0 ~ 1.0
+		eat_moss_fail_chance = 0.0
+		#Chance of blob cost deduction eat_moss, 0 is free, default:1.0
+		#Range: 0.0 ~ 1.0
+		eat_moss_drain_chance = 1.0
+		#Cost of splat interaction deteriorate_mycelium, -1 to disable, default:16
+		#Range: -1 ~ 1000
+		deteriorate_mycelium = 16
+		#Cost of splat interaction death_pulse, -1 to disable, default:16
+		#Range: -1 ~ 1000
+		death_pulse = 16
+		#Chance of blob cost deduction deteriorate_coarse_dirt, 0 is free, default:1.0
+		#Range: 0.0 ~ 1.0
+		deteriorate_coarse_dirt_drain_chance = 1.0
+		#Chance of interaction failure destroy_sugar_cane, 1 to disable, default:0.0
+		#Range: 0.0 ~ 1.0
+		destroy_sugar_cane_fail_chance = 0.0
+		#Cost of splat interaction strip_log, -1 to disable, default:16
+		#Range: -1 ~ 1000
+		strip_log = 16
+		#Cooldown of splat interaction strip_log, default:0
+		#Range: 0 ~ 1000
+		strip_log_cooldown = 0
+		#Chance of blob cost deduction decay_shrooms, 0 is free, default:1.0
+		#Range: 0.0 ~ 1.0
+		decay_shrooms_drain_chance = 1.0
+		#Chance of interaction failure deteriorate_mycelium, 1 to disable, default:0.0
+		#Range: 0.0 ~ 1.0
+		deteriorate_mycelium_fail_chance = 0.0
+		#Chance of blob cost deduction eat_grass, 0 is free, default:1.0
+		#Range: 0.0 ~ 1.0
+		eat_grass_drain_chance = 1.0
+		#Cooldown of splat interaction deteriorate_podzol, default:0
+		#Range: 0 ~ 1000
+		deteriorate_podzol_cooldown = 0
+		#Chance of interaction failure destroy_bamboo_sapling, 1 to disable, default:0.0
+		#Range: 0.0 ~ 1.0
+		destroy_bamboo_sapling_fail_chance = 0.0
+		#Chance of blob cost deduction strip_log, 0 is free, default:1.0
+		#Range: 0.0 ~ 1.0
+		strip_log_drain_chance = 1.0
+		#Cost of splat interaction deteriorate_podzol, -1 to disable, default:16
+		#Range: -1 ~ 1000
+		deteriorate_podzol = 16
+		#Chance of interaction failure deteriorate_nylium, 1 to disable, default:0.0
+		#Range: 0.0 ~ 1.0
+		deteriorate_nylium_fail_chance = 0.0
+		#Chance of interaction failure eat_grass, 1 to disable, default:0.0
+		#Range: 0.0 ~ 1.0
+		eat_grass_fail_chance = 0.0
+		#Chance of interaction failure deteriorate_stone, 1 to disable, default:0.0
+		#Range: 0.0 ~ 1.0
+		deteriorate_stone_fail_chance = 0.0
+		#Chance of blob interaction eat_moss, 0 to disable, default:1.0
+		#Range: 0.0 ~ 1.0
+		eat_moss_chance = 1.0
+		#Cost of blob interaction destroy_cactus, -1 to disable, default:2
+		#Range: -1 ~ 1000
+		destroy_cactus = 2
+		#Chance of blob interaction destroy_vines, 0 to disable, default:1.0
+		#Range: 0.0 ~ 1.0
+		destroy_vines_chance = 1.0
+		#Chance of interaction failure deteriorate_dirt, 1 to disable, default:0.0
+		#Range: 0.0 ~ 1.0
+		deteriorate_dirt_fail_chance = 0.0
+		#Chance of interaction failure destroy_vines, 1 to disable, default:0.0
+		#Range: 0.0 ~ 1.0
+		destroy_vines_fail_chance = 0.0
+		#Chance of blob interaction deteriorate_stone, 0 to disable, default:1.0
+		#Range: 0.0 ~ 1.0
+		deteriorate_stone_chance = 1.0
+		#Chance of blob interaction decay_shrooms, 0 to disable, default:1.0
+		#Range: 0.0 ~ 1.0
+		decay_shrooms_chance = 1.0
+		#Chance of blob cost deduction destroy_flowers, 0 is free, default:1.0
+		#Range: 0.0 ~ 1.0
+		destroy_flowers_drain_chance = 1.0
+		#Cost of splat interaction eat_moss, -1 to disable, default:16
+		#Range: -1 ~ 1000
+		eat_moss = 16
+		#Chance of blob interaction eat_grass, 0 to disable, default:1.0
+		#Range: 0.0 ~ 1.0
+		eat_grass_chance = 1.0
+		#Cooldown of splat interaction eat_grass, default:0
+		#Range: 0 ~ 1000
+		eat_grass_cooldown = 0
+		#Chance of blob cost deduction destroy_vines, 0 is free, default:1.0
+		#Range: 0.0 ~ 1.0
+		destroy_vines_drain_chance = 1.0
+		#Cooldown of splat interaction decay_shrooms, default:0
+		#Range: 0 ~ 1000
+		decay_shrooms_cooldown = 0
+		#Cost of splat interaction deteriorate_dirt, -1 to disable, default:16
+		#Range: -1 ~ 1000
+		deteriorate_dirt = 16
+		#Chance of blob interaction strip_log, 0 to disable, default:1.0
+		#Range: 0.0 ~ 1.0
+		strip_log_chance = 1.0
+		#Chance of blob cost deduction destroy_sugar_cane, 0 is free, default:1.0
+		#Range: 0.0 ~ 1.0
+		destroy_sugar_cane_drain_chance = 1.0
+		#Cost of blob interaction destroy_vines, -1 to disable, default:2
+		#Range: -1 ~ 1000
+		destroy_vines = 2
+		#Cooldown of splat interaction eat_moss, default:0
+		#Range: 0 ~ 1000
+		eat_moss_cooldown = 0
+		#Cost of blob interaction destroy_leaves, -1 to disable, default:2
+		#Range: -1 ~ 1000
+		destroy_leaves = 2
+		#Chance of blob cost deduction destroy_bamboo_sapling, 0 is free, default:1.0
+		#Range: 0.0 ~ 1.0
+		destroy_bamboo_sapling_drain_chance = 1.0
+		#Chance of blob cost deduction destroy_cactus, 0 is free, default:1.0
+		#Range: 0.0 ~ 1.0
+		destroy_cactus_drain_chance = 1.0
+		#Chance of blob interaction destroy_cactus, 0 to disable, default:1.0
+		#Range: 0.0 ~ 1.0
+		destroy_cactus_chance = 1.0
+		#Chance of blob interaction destroy_lilypad, 0 to disable, default:1.0
+		#Range: 0.0 ~ 1.0
+		destroy_lilypad_chance = 1.0
+		#Chance of blob cost deduction deteriorate_cobblestone, 0 is free, default:1.0
+		#Range: 0.0 ~ 1.0
+		deteriorate_cobblestone_drain_chance = 1.0
+		#Chance of blob interaction destroy_flowers, 0 to disable, default:1.0
+		#Range: 0.0 ~ 1.0
+		destroy_flowers_chance = 1.0
+		#Chance of blob cost deduction strip_stem, 0 is free, default:1.0
+		#Range: 0.0 ~ 1.0
+		strip_stem_drain_chance = 1.0
+		#Cost of splat interaction deteriorate_sand_stone, -1 to disable, default:16
+		#Range: -1 ~ 1000
+		deteriorate_sand_stone = 16
+		#Cost of blob interaction destroy_bushes, -1 to disable, default:2
+		#Range: -1 ~ 1000
+		destroy_bushes = 2
+		#Cooldown of splat interaction deteriorate_nylium, default:0
+		#Range: 0 ~ 1000
+		deteriorate_nylium_cooldown = 0
+		#Cost of blob interaction destroy_crops, -1 to disable, default:2
+		#Range: -1 ~ 1000
+		destroy_crops = 2
+		#Chance of blob interaction deteriorate_coarse_dirt, 0 to disable, default:1.0
+		#Range: 0.0 ~ 1.0
+		deteriorate_coarse_dirt_chance = 1.0
+		#Cooldown of splat interaction deteriorate_cobblestone, default:0
+		#Range: 0 ~ 1000
+		deteriorate_cobblestone_cooldown = 0
+		#Chance of blob cost deduction deteriorate_stone, 0 is free, default:1.0
+		#Range: 0.0 ~ 1.0
+		deteriorate_stone_drain_chance = 1.0
+		#Cost of splat interaction eat_grass, -1 to disable, default:16
+		#Range: -1 ~ 1000
+		eat_grass = 16
+		#Cost of blob interaction destroy_flowers, -1 to disable, default:2
+		#Range: -1 ~ 1000
+		destroy_flowers = 2
+		#Cooldown of splat interaction death_pulse, default:0
+		#Range: 0 ~ 1000
+		death_pulse_cooldown = 0
+		#Cost of splat interaction deteriorate_stone, -1 to disable, default:16
+		#Range: -1 ~ 1000
+		deteriorate_stone = 16
+		#Chance of blob cost deduction deteriorate_gravel, 0 is free, default:1.0
+		#Range: 0.0 ~ 1.0
+		deteriorate_gravel_drain_chance = 1.0
+		#Chance of blob cost deduction destroy_sapling, 0 is free, default:1.0
+		#Range: 0.0 ~ 1.0
+		destroy_sapling_drain_chance = 1.0
+		#Cooldown of splat interaction deteriorate_stone, default:0
+		#Range: 0 ~ 1000
+		deteriorate_stone_cooldown = 0
+		#Chance of blob interaction strip_stem, 0 to disable, default:1.0
+		#Range: 0.0 ~ 1.0
+		strip_stem_chance = 1.0
+		#Chance of interaction failure deteriorate_coarse_dirt, 1 to disable, default:0.0
+		#Range: 0.0 ~ 1.0
+		deteriorate_coarse_dirt_fail_chance = 0.0
+		#Chance of interaction failure deteriorate_podzol, 1 to disable, default:0.0
+		#Range: 0.0 ~ 1.0
+		deteriorate_podzol_fail_chance = 0.0
+		#Chance of blob interaction deteriorate_mycelium, 0 to disable, default:1.0
+		#Range: 0.0 ~ 1.0
+		deteriorate_mycelium_chance = 1.0
+		#Chance of blob interaction destroy_leaves, 0 to disable, default:1.0
+		#Range: 0.0 ~ 1.0
+		destroy_leaves_chance = 1.0
+		#Chance of blob cost deduction deteriorate_podzol, 0 is free, default:1.0
+		#Range: 0.0 ~ 1.0
+		deteriorate_podzol_drain_chance = 1.0
+		#Chance of blob interaction deteriorate_cobblestone, 0 to disable, default:1.0
+		#Range: 0.0 ~ 1.0
+		deteriorate_cobblestone_chance = 1.0
+		#Chance of interaction failure deteriorate_gravel, 1 to disable, default:0.0
+		#Range: 0.0 ~ 1.0
+		deteriorate_gravel_fail_chance = 0.0
+		#Cooldown of splat interaction deteriorate_gravel, default:0
+		#Range: 0 ~ 1000
+		deteriorate_gravel_cooldown = 0
+		#Cooldown of splat interaction deteriorate_coarse_dirt, default:0
+		#Range: 0 ~ 1000
+		deteriorate_coarse_dirt_cooldown = 0
+		#Cooldown of splat interaction deteriorate_dirt, default:0
+		#Range: 0 ~ 1000
+		deteriorate_dirt_cooldown = 0
+		#Chance of blob interaction destroy_grass, 0 to disable, default:1.0
+		#Range: 0.0 ~ 1.0
+		destroy_grass_chance = 1.0
+		#Cost of splat interaction deteriorate_nylium, -1 to disable, default:16
+		#Range: -1 ~ 1000
+		deteriorate_nylium = 16
+		#Cooldown of splat interaction deteriorate_sand_stone, default:0
+		#Range: 0 ~ 1000
+		deteriorate_sand_stone_cooldown = 0
+		#Cost of splat interaction strip_stem, -1 to disable, default:16
+		#Range: -1 ~ 1000
+		strip_stem = 16
+		#Cost of splat interaction deteriorate_coarse_dirt, -1 to disable, default:16
+		#Range: -1 ~ 1000
+		deteriorate_coarse_dirt = 16
+		#Chance of blob cost deduction deteriorate_mycelium, 0 is free, default:1.0
+		#Range: 0.0 ~ 1.0
+		deteriorate_mycelium_drain_chance = 1.0
+		#Chance of blob cost deduction destroy_lilypad, 0 is free, default:1.0
+		#Range: 0.0 ~ 1.0
+		destroy_lilypad_drain_chance = 1.0
+		#Chance of blob interaction deteriorate_sand_stone, 0 to disable, default:1.0
+		#Range: 0.0 ~ 1.0
+		deteriorate_sand_stone_chance = 1.0
+		#Thrown amount of goo:decay_goo, -1 to disable, default: [I@4378e7ed
+		#Range: -1 ~ 1000
+		thrown_amount = 16
+		#Chance of interaction failure destroy_bushes, 1 to disable, default:0.0
+		#Range: 0.0 ~ 1.0
+		destroy_bushes_fail_chance = 0.0
+		#Chance of interaction failure strip_stem, 1 to disable, default:0.0
+		#Range: 0.0 ~ 1.0
+		strip_stem_fail_chance = 0.0
+		#Cost of blob interaction destroy_lilypad, -1 to disable, default:2
+		#Range: -1 ~ 1000
+		destroy_lilypad = 2
+		#Chance of blob cost deduction destroy_grass, 0 is free, default:1.0
+		#Range: 0.0 ~ 1.0
+		destroy_grass_drain_chance = 1.0
+		#Chance of interaction failure destroy_sapling, 1 to disable, default:0.0
+		#Range: 0.0 ~ 1.0
+		destroy_sapling_fail_chance = 0.0
+		#Chance of blob cost deduction deteriorate_nylium, 0 is free, default:1.0
+		#Range: 0.0 ~ 1.0
+		deteriorate_nylium_drain_chance = 1.0
+		#Chance of blob interaction destroy_bamboo, 0 to disable, default:1.0
+		#Range: 0.0 ~ 1.0
+		destroy_bamboo_chance = 1.0
+		#Chance of blob interaction destroy_bamboo_sapling, 0 to disable, default:1.0
+		#Range: 0.0 ~ 1.0
+		destroy_bamboo_sapling_chance = 1.0
+		#Cost of blob interaction destroy_bamboo_sapling, -1 to disable, default:2
+		#Range: -1 ~ 1000
+		destroy_bamboo_sapling = 2
+		#Cost of blob interaction destroy_sapling, -1 to disable, default:2
+		#Range: -1 ~ 1000
+		destroy_sapling = 2
+		#Chance of interaction failure destroy_flowers, 1 to disable, default:0.0
+		#Range: 0.0 ~ 1.0
+		destroy_flowers_fail_chance = 0.0
+		#Cost of splat interaction decay_shrooms, -1 to disable, default:16
+		#Range: -1 ~ 1000
+		decay_shrooms = 16
+		#Chance of interaction failure decay_shrooms, 1 to disable, default:0.0
+		#Range: 0.0 ~ 1.0
+		decay_shrooms_fail_chance = 0.0
+		#Chance of blob cost deduction destroy_crops, 0 is free, default:1.0
+		#Range: 0.0 ~ 1.0
+		destroy_crops_drain_chance = 1.0
+		#Chance of interaction failure destroy_leaves, 1 to disable, default:0.0
+		#Range: 0.0 ~ 1.0
+		destroy_leaves_fail_chance = 0.0
+		#Chance of blob cost deduction destroy_bamboo, 0 is free, default:1.0
+		#Range: 0.0 ~ 1.0
+		destroy_bamboo_drain_chance = 1.0
+
+	[general."goo:molten_goo"]
+		#Cost of splat interaction cook_block, -1 to disable, default:16
+		#Range: -1 ~ 1000
+		cook_block = 16
+		#Cooldown of splat interaction cook_block, default:0
+		#Range: 0 ~ 1000
+		cook_block_cooldown = 0
+		#Chance of blob cost deduction melt_obsidian, 0 is free, default:1.0
+		#Range: 0.0 ~ 1.0
+		melt_obsidian_drain_chance = 1.0
+		#Chance of interaction failure melt_obsidian, 1 to disable, default:0.0
+		#Range: 0.0 ~ 1.0
+		melt_obsidian_fail_chance = 0.0
+		#Cooldown of splat interaction melt_obsidian, default:0
+		#Range: 0 ~ 1000
+		melt_obsidian_cooldown = 0
+		#Chance of blob cost deduction cook_block, 0 is free, default:1.0
+		#Range: 0.0 ~ 1.0
+		cook_block_drain_chance = 1.0
+		#Cost of splat interaction melt_obsidian, -1 to disable, default:16
+		#Range: -1 ~ 1000
+		melt_obsidian = 16
+		#Chance of blob interaction cook_block, 0 to disable, default:1.0
+		#Range: 0.0 ~ 1.0
+		cook_block_chance = 1.0
+		#Thrown amount of goo:molten_goo, -1 to disable, default: [I@d3a0a78
+		#Range: -1 ~ 1000
+		thrown_amount = 16
+		#Chance of blob interaction melt_obsidian, 0 to disable, default:1.0
+		#Range: 0.0 ~ 1.0
+		melt_obsidian_chance = 1.0
+		#Chance of interaction failure cook_block, 1 to disable, default:0.0
+		#Range: 0.0 ~ 1.0
+		cook_block_fail_chance = 0.0
+
+	[general."goo:crystal_goo"]
+		#Cost of splat interaction crystal_breaker, -1 to disable, default:1
+		#Range: -1 ~ 1000
+		crystal_breaker = 1
+		#Chance of blob interaction crystal_breaker, 0 to disable, default:1.0
+		#Range: 0.0 ~ 1.0
+		crystal_breaker_chance = 1.0
+		#Cooldown of splat interaction crystal_breaker, default:0
+		#Range: 0 ~ 1000
+		crystal_breaker_cooldown = 0
+		#Chance of blob cost deduction crystal_breaker, 0 is free, default:1.0
+		#Range: 0.0 ~ 1.0
+		crystal_breaker_drain_chance = 1.0
+		#Chance of interaction failure crystal_breaker, 1 to disable, default:0.0
+		#Range: 0.0 ~ 1.0
+		crystal_breaker_fail_chance = 0.0
+		#Thrown amount of goo:crystal_goo, -1 to disable, default: [I@646e1fc1
+		#Range: -1 ~ 1000
+		thrown_amount = 1
+
+	[general."goo:faunal_goo"]
+		#Chance of blob cost deduction twitterpate_animals, 0 is free, default:1.0
+		#Range: 0.0 ~ 1.0
+		twitterpate_animals_drain_chance = 1.0
+		#Chance of blob interaction twitterpate_animals, 0 to disable, default:1.0
+		#Range: 0.0 ~ 1.0
+		twitterpate_animals_chance = 1.0
+		#Cooldown of splat interaction twitterpate_animals, default:0
+		#Range: 0 ~ 1000
+		twitterpate_animals_cooldown = 0
+		#Thrown amount of goo:faunal_goo, -1 to disable, default: [I@193e9c09
+		#Range: -1 ~ 1000
+		thrown_amount = 16
+		#Cost of splat interaction twitterpate_animals, -1 to disable, default:8
+		#Range: -1 ~ 1000
+		twitterpate_animals = 8
+		#Chance of interaction failure twitterpate_animals, 1 to disable, default:0.0
+		#Range: 0.0 ~ 1.0
+		twitterpate_animals_fail_chance = 0.0
+
+	[general."goo:metal_goo"]
+		#Chance of interaction failure metal_breaker, 1 to disable, default:0.0
+		#Range: 0.0 ~ 1.0
+		metal_breaker_fail_chance = 0.0
+		#Chance of blob interaction metal_breaker, 0 to disable, default:1.0
+		#Range: 0.0 ~ 1.0
+		metal_breaker_chance = 1.0
+		#Thrown amount of goo:metal_goo, -1 to disable, default: [I@222ba5b5
+		#Range: -1 ~ 1000
+		thrown_amount = 1
+		#Cooldown of splat interaction metal_breaker, default:0
+		#Range: 0 ~ 1000
+		metal_breaker_cooldown = 0
+		#Cost of splat interaction metal_breaker, -1 to disable, default:1
+		#Range: -1 ~ 1000
+		metal_breaker = 1
+		#Chance of blob cost deduction metal_breaker, 0 is free, default:1.0
+		#Range: 0.0 ~ 1.0
+		metal_breaker_drain_chance = 1.0
+
+	[general."goo:earthen_goo"]
+		#Chance of interaction failure edify_gravel, 1 to disable, default:0.0
+		#Range: 0.0 ~ 1.0
+		edify_gravel_fail_chance = 0.0
+		#Chance of blob interaction edify_cobblestone, 0 to disable, default:1.0
+		#Range: 0.0 ~ 1.0
+		edify_cobblestone_chance = 1.0
+		#Cost of splat interaction edify_granite, -1 to disable, default:16
+		#Range: -1 ~ 1000
+		edify_granite = 16
+		#Cooldown of splat interaction edify_granite, default:0
+		#Range: 0 ~ 1000
+		edify_granite_cooldown = 0
+		#Cost of splat interaction edify_andesite, -1 to disable, default:16
+		#Range: -1 ~ 1000
+		edify_andesite = 16
+		#Cost of splat interaction edify_diorite, -1 to disable, default:16
+		#Range: -1 ~ 1000
+		edify_diorite = 16
+		#Chance of blob cost deduction edify_sand, 0 is free, default:1.0
+		#Range: 0.0 ~ 1.0
+		edify_sand_drain_chance = 1.0
+		#Cost of splat interaction edify_stone, -1 to disable, default:16
+		#Range: -1 ~ 1000
+		edify_stone = 16
+		#Chance of blob cost deduction edify_diorite, 0 is free, default:1.0
+		#Range: 0.0 ~ 1.0
+		edify_diorite_drain_chance = 1.0
+		#Chance of blob cost deduction edify_dirt, 0 is free, default:1.0
+		#Range: 0.0 ~ 1.0
+		edify_dirt_drain_chance = 1.0
+		#Cooldown of splat interaction edify_coarse_dirt, default:0
+		#Range: 0 ~ 1000
+		edify_coarse_dirt_cooldown = 0
+		#Chance of interaction failure edify_cobblestone, 1 to disable, default:0.0
+		#Range: 0.0 ~ 1.0
+		edify_cobblestone_fail_chance = 0.0
+		#Chance of blob interaction edify_andesite, 0 to disable, default:1.0
+		#Range: 0.0 ~ 1.0
+		edify_andesite_chance = 1.0
+		#Chance of blob interaction edify_coarse_dirt, 0 to disable, default:1.0
+		#Range: 0.0 ~ 1.0
+		edify_coarse_dirt_chance = 1.0
+		#Cooldown of splat interaction edify_diorite, default:0
+		#Range: 0 ~ 1000
+		edify_diorite_cooldown = 0
+		#Chance of interaction failure edify_coarse_dirt, 1 to disable, default:0.0
+		#Range: 0.0 ~ 1.0
+		edify_coarse_dirt_fail_chance = 0.0
+		#Thrown amount of goo:earthen_goo, -1 to disable, default: [I@6d54a351
+		#Range: -1 ~ 1000
+		thrown_amount = 16
+		#Chance of interaction failure edify_andesite, 1 to disable, default:0.0
+		#Range: 0.0 ~ 1.0
+		edify_andesite_fail_chance = 0.0
+		#Chance of blob interaction edify_dirt, 0 to disable, default:1.0
+		#Range: 0.0 ~ 1.0
+		edify_dirt_chance = 1.0
+		#Chance of blob interaction edify_granite, 0 to disable, default:1.0
+		#Range: 0.0 ~ 1.0
+		edify_granite_chance = 1.0
+		#Chance of interaction failure edify_sand, 1 to disable, default:0.0
+		#Range: 0.0 ~ 1.0
+		edify_sand_fail_chance = 0.0
+		#Chance of blob cost deduction edify_stone, 0 is free, default:1.0
+		#Range: 0.0 ~ 1.0
+		edify_stone_drain_chance = 1.0
+		#Cooldown of splat interaction edify_cobblestone, default:0
+		#Range: 0 ~ 1000
+		edify_cobblestone_cooldown = 0
+		#Cooldown of splat interaction edify_dirt, default:0
+		#Range: 0 ~ 1000
+		edify_dirt_cooldown = 0
+		#Chance of blob interaction edify_sand, 0 to disable, default:1.0
+		#Range: 0.0 ~ 1.0
+		edify_sand_chance = 1.0
+		#Chance of blob cost deduction edify_coarse_dirt, 0 is free, default:1.0
+		#Range: 0.0 ~ 1.0
+		edify_coarse_dirt_drain_chance = 1.0
+		#Chance of interaction failure edify_stone, 1 to disable, default:0.0
+		#Range: 0.0 ~ 1.0
+		edify_stone_fail_chance = 0.0
+		#Chance of interaction failure edify_dirt, 1 to disable, default:0.0
+		#Range: 0.0 ~ 1.0
+		edify_dirt_fail_chance = 0.0
+		#Chance of blob interaction edify_diorite, 0 to disable, default:1.0
+		#Range: 0.0 ~ 1.0
+		edify_diorite_chance = 1.0
+		#Cost of splat interaction edify_gravel, -1 to disable, default:16
+		#Range: -1 ~ 1000
+		edify_gravel = 16
+		#Chance of interaction failure edify_diorite, 1 to disable, default:0.0
+		#Range: 0.0 ~ 1.0
+		edify_diorite_fail_chance = 0.0
+		#Cooldown of splat interaction edify_andesite, default:0
+		#Range: 0 ~ 1000
+		edify_andesite_cooldown = 0
+		#Cooldown of splat interaction edify_stone, default:0
+		#Range: 0 ~ 1000
+		edify_stone_cooldown = 0
+		#Chance of interaction failure edify_granite, 1 to disable, default:0.0
+		#Range: 0.0 ~ 1.0
+		edify_granite_fail_chance = 0.0
+		#Cost of splat interaction edify_sand, -1 to disable, default:16
+		#Range: -1 ~ 1000
+		edify_sand = 16
+		#Chance of blob cost deduction edify_cobblestone, 0 is free, default:1.0
+		#Range: 0.0 ~ 1.0
+		edify_cobblestone_drain_chance = 1.0
+		#Cost of splat interaction edify_cobblestone, -1 to disable, default:16
+		#Range: -1 ~ 1000
+		edify_cobblestone = 16
+		#Cost of splat interaction edify_coarse_dirt, -1 to disable, default:16
+		#Range: -1 ~ 1000
+		edify_coarse_dirt = 16
+		#Chance of blob interaction edify_gravel, 0 to disable, default:1.0
+		#Range: 0.0 ~ 1.0
+		edify_gravel_chance = 1.0
+		#Chance of blob cost deduction edify_andesite, 0 is free, default:1.0
+		#Range: 0.0 ~ 1.0
+		edify_andesite_drain_chance = 1.0
+		#Chance of blob interaction edify_stone, 0 to disable, default:1.0
+		#Range: 0.0 ~ 1.0
+		edify_stone_chance = 1.0
+		#Cost of splat interaction edify_dirt, -1 to disable, default:16
+		#Range: -1 ~ 1000
+		edify_dirt = 16
+		#Chance of blob cost deduction edify_gravel, 0 is free, default:1.0
+		#Range: 0.0 ~ 1.0
+		edify_gravel_drain_chance = 1.0
+		#Cooldown of splat interaction edify_gravel, default:0
+		#Range: 0 ~ 1000
+		edify_gravel_cooldown = 0
+		#Cooldown of splat interaction edify_sand, default:0
+		#Range: 0 ~ 1000
+		edify_sand_cooldown = 0
+		#Chance of blob cost deduction edify_granite, 0 is free, default:1.0
+		#Range: 0.0 ~ 1.0
+		edify_granite_drain_chance = 1.0
+
+	[general."goo:snow_goo"]
+		#Cooldown of splat interaction freeze_water, default:0
+		#Range: 0 ~ 1000
+		freeze_water_cooldown = 0
+		#Chance of interaction failure cool_lava, 1 to disable, default:0.0
+		#Range: 0.0 ~ 1.0
+		cool_lava_fail_chance = 0.0
+		#Chance of interaction failure freeze_water, 1 to disable, default:0.0
+		#Range: 0.0 ~ 1.0
+		freeze_water_fail_chance = 0.0
+		#Chance of blob interaction cool_lava, 0 to disable, default:1.0
+		#Range: 0.0 ~ 1.0
+		cool_lava_chance = 1.0
+		#Chance of blob cost deduction extinguish_fire, 0 is free, default:1.0
+		#Range: 0.0 ~ 1.0
+		extinguish_fire_drain_chance = 1.0
+		#Cost of blob interaction cool_flowing_lava, -1 to disable, default:16
+		#Range: -1 ~ 1000
+		cool_flowing_lava = 16
+		#Chance of blob interaction cool_flowing_lava, 0 to disable, default:1.0
+		#Range: 0.0 ~ 1.0
+		cool_flowing_lava_chance = 1.0
+		#Cooldown of splat interaction cool_lava, default:0
+		#Range: 0 ~ 1000
+		cool_lava_cooldown = 0
+		#Chance of interaction failure extinguish_fire, 1 to disable, default:0.0
+		#Range: 0.0 ~ 1.0
+		extinguish_fire_fail_chance = 0.0
+		#Chance of blob cost deduction freeze_water, 0 is free, default:1.0
+		#Range: 0.0 ~ 1.0
+		freeze_water_drain_chance = 1.0
+		#Chance of blob cost deduction cool_flowing_lava, 0 is free, default:1.0
+		#Range: 0.0 ~ 1.0
+		cool_flowing_lava_drain_chance = 1.0
+		#Cost of blob interaction extinguish_fire, -1 to disable, default:16
+		#Range: -1 ~ 1000
+		extinguish_fire = 16
+		#Chance of blob interaction freeze_water, 0 to disable, default:1.0
+		#Range: 0.0 ~ 1.0
+		freeze_water_chance = 1.0
+		#Cost of splat interaction cool_lava, -1 to disable, default:16
+		#Range: -1 ~ 1000
+		cool_lava = 16
+		#Chance of blob interaction extinguish_fire, 0 to disable, default:1.0
+		#Range: 0.0 ~ 1.0
+		extinguish_fire_chance = 1.0
+		#Chance of interaction failure cool_flowing_lava, 1 to disable, default:0.0
+		#Range: 0.0 ~ 1.0
+		cool_flowing_lava_fail_chance = 0.0
+		#Chance of blob cost deduction cool_lava, 0 is free, default:1.0
+		#Range: 0.0 ~ 1.0
+		cool_lava_drain_chance = 1.0
+		#Cost of splat interaction freeze_water, -1 to disable, default:16
+		#Range: -1 ~ 1000
+		freeze_water = 16
+		#Thrown amount of goo:snow_goo, -1 to disable, default: [I@10f95ca7
+		#Range: -1 ~ 1000
+		thrown_amount = 16
+
+	[general."goo:aquatic_goo"]
+		#Chance of interaction failure cool_lava, 1 to disable, default:0.0
+		#Range: 0.0 ~ 1.0
+		cool_lava_fail_chance = 0.0
+		#Chance of blob interaction cool_lava, 0 to disable, default:1.0
+		#Range: 0.0 ~ 1.0
+		cool_lava_chance = 1.0
+		#Chance of blob cost deduction hydrate_farmland, 0 is free, default:1.0
+		#Range: 0.0 ~ 1.0
+		hydrate_farmland_drain_chance = 1.0
+		#Chance of blob cost deduction extinguish_fire, 0 is free, default:1.0
+		#Range: 0.0 ~ 1.0
+		extinguish_fire_drain_chance = 1.0
+		#Cost of blob interaction cool_flowing_lava, -1 to disable, default:16
+		#Range: -1 ~ 1000
+		cool_flowing_lava = 16
+		#Chance of blob interaction cool_flowing_lava, 0 to disable, default:1.0
+		#Range: 0.0 ~ 1.0
+		cool_flowing_lava_chance = 1.0
+		#Chance of blob interaction hydrate_farmland, 0 to disable, default:1.0
+		#Range: 0.0 ~ 1.0
+		hydrate_farmland_chance = 1.0
+		#Cooldown of splat interaction cool_lava, default:0
+		#Range: 0 ~ 1000
+		cool_lava_cooldown = 0
+		#Chance of interaction failure extinguish_fire, 1 to disable, default:0.0
+		#Range: 0.0 ~ 1.0
+		extinguish_fire_fail_chance = 0.0
+		#Chance of blob cost deduction cool_flowing_lava, 0 is free, default:1.0
+		#Range: 0.0 ~ 1.0
+		cool_flowing_lava_drain_chance = 1.0
+		#Cost of blob interaction edify_flowing_water, -1 to disable, default:16
+		#Range: -1 ~ 1000
+		edify_flowing_water = 16
+		#Cost of blob interaction extinguish_fire, -1 to disable, default:16
+		#Range: -1 ~ 1000
+		extinguish_fire = 16
+		#Chance of interaction failure edify_flowing_water, 1 to disable, default:0.0
+		#Range: 0.0 ~ 1.0
+		edify_flowing_water_fail_chance = 0.0
+		#Chance of interaction failure hydrate_farmland, 1 to disable, default:0.0
+		#Range: 0.0 ~ 1.0
+		hydrate_farmland_fail_chance = 0.0
+		#Chance of blob cost deduction edify_flowing_water, 0 is free, default:1.0
+		#Range: 0.0 ~ 1.0
+		edify_flowing_water_drain_chance = 1.0
+		#Cost of splat interaction cool_lava, -1 to disable, default:16
+		#Range: -1 ~ 1000
+		cool_lava = 16
+		#Chance of blob interaction extinguish_fire, 0 to disable, default:1.0
+		#Range: 0.0 ~ 1.0
+		extinguish_fire_chance = 1.0
+		#Chance of interaction failure cool_flowing_lava, 1 to disable, default:0.0
+		#Range: 0.0 ~ 1.0
+		cool_flowing_lava_fail_chance = 0.0
+		#Chance of blob cost deduction cool_lava, 0 is free, default:1.0
+		#Range: 0.0 ~ 1.0
+		cool_lava_drain_chance = 1.0
+		#Thrown amount of goo:aquatic_goo, -1 to disable, default: [I@13a1666c
+		#Range: -1 ~ 1000
+		thrown_amount = 16
+		#Chance of blob interaction edify_flowing_water, 0 to disable, default:1.0
+		#Range: 0.0 ~ 1.0
+		edify_flowing_water_chance = 1.0
+		#Cost of blob interaction hydrate_farmland, -1 to disable, default:16
+		#Range: -1 ~ 1000
+		hydrate_farmland = 16
+
+	[general."goo:slime_goo"]
+		#Chance of interaction failure bounce_living, 1 to disable, default:0.0
+		#Range: 0.0 ~ 1.0
+		bounce_living_fail_chance = 0.0
+		#Chance of blob cost deduction bounce_living, 0 is free, default:0.125
+		#Range: 0.0 ~ 1.0
+		bounce_living_drain_chance = 0.125
+		#Chance of blob interaction bounce_living, 0 to disable, default:1.0
+		#Range: 0.0 ~ 1.0
+		bounce_living_chance = 1.0
+		#Cost of splat interaction bounce_living, -1 to disable, default:1
+		#Range: -1 ~ 1000
+		bounce_living = 1
+		#Thrown amount of goo:slime_goo, -1 to disable, default: [I@7cc10457
+		#Range: -1 ~ 1000
+		thrown_amount = 16
+		#Cooldown of splat interaction bounce_living, default:0
+		#Range: 0 ~ 1000
+		bounce_living_cooldown = 0
+
+	[general."goo:weird_goo"]
+		#Cooldown of splat interaction weird_transport, default:60
+		#Range: 0 ~ 1000
+		weird_transport_cooldown = 60
+		#Chance of interaction failure weird_transport, 1 to disable, default:0.0
+		#Range: 0.0 ~ 1.0
+		weird_transport_fail_chance = 0.0
+		#Cost of splat interaction weird_transport, -1 to disable, default:16
+		#Range: -1 ~ 1000
+		weird_transport = 16
+		#Chance of blob interaction weird_transport, 0 to disable, default:1.0
+		#Range: 0.0 ~ 1.0
+		weird_transport_chance = 1.0
+		#Chance of blob cost deduction weird_transport, 0 is free, default:1.0
+		#Range: 0.0 ~ 1.0
+		weird_transport_drain_chance = 1.0
+		#Thrown amount of goo:weird_goo, -1 to disable, default: [I@2e3d02c7
+		#Range: -1 ~ 1000
+		thrown_amount = 16
+
+	[general."goo:regal_goo"]
+		#Cost of splat interaction regal_breaker, -1 to disable, default:8
+		#Range: -1 ~ 1000
+		regal_breaker = 8
+		#Chance of interaction failure regal_breaker, 1 to disable, default:0.0
+		#Range: 0.0 ~ 1.0
+		regal_breaker_fail_chance = 0.0
+		#Chance of blob interaction regal_breaker, 0 to disable, default:1.0
+		#Range: 0.0 ~ 1.0
+		regal_breaker_chance = 1.0
+		#Thrown amount of goo:regal_goo, -1 to disable, default: [I@7406cee
+		#Range: -1 ~ 1000
+		thrown_amount = 8
+		#Chance of blob cost deduction regal_breaker, 0 is free, default:1.0
+		#Range: 0.0 ~ 1.0
+		regal_breaker_drain_chance = 1.0
+		#Cooldown of splat interaction regal_breaker, default:0
+		#Range: 0 ~ 1000
+		regal_breaker_cooldown = 0
+
+	[general."goo:chromatic_goo"]
+		#Chance of blob cost deduction dye_glazed_terracotta, 0 is free, default:1.0
+		#Range: 0.0 ~ 1.0
+		dye_glazed_terracotta_drain_chance = 1.0
+		#Chance of interaction failure dye_glazed_terracotta, 1 to disable, default:0.0
+		#Range: 0.0 ~ 1.0
+		dye_glazed_terracotta_fail_chance = 0.0
+		#Chance of blob interaction dye_concrete, 0 to disable, default:1.0
+		#Range: 0.0 ~ 1.0
+		dye_concrete_chance = 1.0
+		#Chance of blob interaction dye_glass, 0 to disable, default:1.0
+		#Range: 0.0 ~ 1.0
+		dye_glass_chance = 1.0
+		#Chance of blob interaction dye_terracotta, 0 to disable, default:1.0
+		#Range: 0.0 ~ 1.0
+		dye_terracotta_chance = 1.0
+		#Cooldown of splat interaction dye_concrete_powder, default:0
+		#Range: 0 ~ 1000
+		dye_concrete_powder_cooldown = 0
+		#Chance of blob interaction sand_color, 0 to disable, default:1.0
+		#Range: 0.0 ~ 1.0
+		sand_color_chance = 1.0
+		#Chance of interaction failure dye_concrete_powder, 1 to disable, default:0.0
+		#Range: 0.0 ~ 1.0
+		dye_concrete_powder_fail_chance = 0.0
+		#Cooldown of splat interaction dye_glazed_terracotta, default:0
+		#Range: 0 ~ 1000
+		dye_glazed_terracotta_cooldown = 0
+		#Chance of blob cost deduction dye_terracotta, 0 is free, default:1.0
+		#Range: 0.0 ~ 1.0
+		dye_terracotta_drain_chance = 1.0
+		#Cost of splat interaction dye_terracotta, -1 to disable, default:16
+		#Range: -1 ~ 1000
+		dye_terracotta = 16
+		#Cooldown of splat interaction sand_color, default:0
+		#Range: 0 ~ 1000
+		sand_color_cooldown = 0
+		#Cost of splat interaction dye_glass, -1 to disable, default:16
+		#Range: -1 ~ 1000
+		dye_glass = 16
+		#Chance of blob cost deduction dye_glass, 0 is free, default:1.0
+		#Range: 0.0 ~ 1.0
+		dye_glass_drain_chance = 1.0
+		#Cost of splat interaction dye_concrete, -1 to disable, default:16
+		#Range: -1 ~ 1000
+		dye_concrete = 16
+		#Chance of interaction failure dye_terracotta, 1 to disable, default:0.0
+		#Range: 0.0 ~ 1.0
+		dye_terracotta_fail_chance = 0.0
+		#Chance of blob interaction dye_glazed_terracotta, 0 to disable, default:1.0
+		#Range: 0.0 ~ 1.0
+		dye_glazed_terracotta_chance = 1.0
+		#Chance of blob cost deduction dye_concrete_powder, 0 is free, default:1.0
+		#Range: 0.0 ~ 1.0
+		dye_concrete_powder_drain_chance = 1.0
+		#Cooldown of splat interaction dye_glass, default:0
+		#Range: 0 ~ 1000
+		dye_glass_cooldown = 0
+		#Chance of blob cost deduction dye_wool, 0 is free, default:1.0
+		#Range: 0.0 ~ 1.0
+		dye_wool_drain_chance = 1.0
+		#Thrown amount of goo:chromatic_goo, -1 to disable, default: [I@7309b4b2
+		#Range: -1 ~ 1000
+		thrown_amount = 16
+		#Cost of splat interaction dye_concrete_powder, -1 to disable, default:16
+		#Range: -1 ~ 1000
+		dye_concrete_powder = 16
+		#Cost of splat interaction dye_glazed_terracotta, -1 to disable, default:16
+		#Range: -1 ~ 1000
+		dye_glazed_terracotta = 16
+		#Chance of interaction failure sand_color, 1 to disable, default:0.0
+		#Range: 0.0 ~ 1.0
+		sand_color_fail_chance = 0.0
+		#Chance of blob cost deduction dye_concrete, 0 is free, default:1.0
+		#Range: 0.0 ~ 1.0
+		dye_concrete_drain_chance = 1.0
+		#Chance of blob interaction dye_concrete_powder, 0 to disable, default:1.0
+		#Range: 0.0 ~ 1.0
+		dye_concrete_powder_chance = 1.0
+		#Chance of interaction failure dye_wool, 1 to disable, default:0.0
+		#Range: 0.0 ~ 1.0
+		dye_wool_fail_chance = 0.0
+		#Cooldown of splat interaction dye_terracotta, default:0
+		#Range: 0 ~ 1000
+		dye_terracotta_cooldown = 0
+		#Chance of blob interaction dye_wool, 0 to disable, default:1.0
+		#Range: 0.0 ~ 1.0
+		dye_wool_chance = 1.0
+		#Cooldown of splat interaction dye_concrete, default:0
+		#Range: 0 ~ 1000
+		dye_concrete_cooldown = 0
+		#Chance of interaction failure dye_glass, 1 to disable, default:0.0
+		#Range: 0.0 ~ 1.0
+		dye_glass_fail_chance = 0.0
+		#Cooldown of splat interaction dye_wool, default:0
+		#Range: 0 ~ 1000
+		dye_wool_cooldown = 0
+		#Cost of splat interaction dye_wool, -1 to disable, default:16
+		#Range: -1 ~ 1000
+		dye_wool = 16
+		#Cost of splat interaction sand_color, -1 to disable, default:16
+		#Range: -1 ~ 1000
+		sand_color = 16
+		#Chance of blob cost deduction sand_color, 0 is free, default:1.0
+		#Range: 0.0 ~ 1.0
+		sand_color_drain_chance = 1.0
+		#Chance of interaction failure dye_concrete, 1 to disable, default:0.0
+		#Range: 0.0 ~ 1.0
+		dye_concrete_fail_chance = 0.0
+
+	[general."goo:fungal_goo"]
+		#Chance of blob interaction grow_vines, 0 to disable, default:1.0
+		#Range: 0.0 ~ 1.0
+		grow_vines_chance = 1.0
+		#Chance of blob interaction grow_mycelium, 0 to disable, default:1.0
+		#Range: 0.0 ~ 1.0
+		grow_mycelium_chance = 1.0
+		#Chance of interaction failure grow_shroom, 1 to disable, default:0.0
+		#Range: 0.0 ~ 1.0
+		grow_shroom_fail_chance = 0.0
+		#Cooldown of splat interaction grow_shroom, default:0
+		#Range: 0 ~ 1000
+		grow_shroom_cooldown = 0
+		#Cooldown of splat interaction grow_nylium, default:0
+		#Range: 0 ~ 1000
+		grow_nylium_cooldown = 0
+		#Cooldown of splat interaction grow_vines, default:0
+		#Range: 0 ~ 1000
+		grow_vines_cooldown = 0
+		#Chance of blob interaction trigger_growable, 0 to disable, default:1.0
+		#Range: 0.0 ~ 1.0
+		trigger_growable_chance = 1.0
+		#Cooldown of splat interaction grow_mycelium, default:0
+		#Range: 0 ~ 1000
+		grow_mycelium_cooldown = 0
+		#Chance of interaction failure grow_mycelium, 1 to disable, default:0.0
+		#Range: 0.0 ~ 1.0
+		grow_mycelium_fail_chance = 0.0
+		#Chance of blob cost deduction grow_mycelium, 0 is free, default:1.0
+		#Range: 0.0 ~ 1.0
+		grow_mycelium_drain_chance = 1.0
+		#Cost of blob interaction trigger_growable, -1 to disable, default:16
+		#Range: -1 ~ 1000
+		trigger_growable = 16
+		#Chance of blob interaction grow_shroom, 0 to disable, default:1.0
+		#Range: 0.0 ~ 1.0
+		grow_shroom_chance = 1.0
+		#Thrown amount of goo:fungal_goo, -1 to disable, default: [I@4f25cc7e
+		#Range: -1 ~ 1000
+		thrown_amount = 16
+		#Chance of interaction failure trigger_growable, 1 to disable, default:0.0
+		#Range: 0.0 ~ 1.0
+		trigger_growable_fail_chance = 0.0
+		#Cost of splat interaction grow_nylium, -1 to disable, default:16
+		#Range: -1 ~ 1000
+		grow_nylium = 16
+		#Chance of blob cost deduction grow_podzol, 0 is free, default:1.0
+		#Range: 0.0 ~ 1.0
+		grow_podzol_drain_chance = 1.0
+		#Chance of blob cost deduction grow_vines, 0 is free, default:1.0
+		#Range: 0.0 ~ 1.0
+		grow_vines_drain_chance = 1.0
+		#Chance of interaction failure grow_podzol, 1 to disable, default:0.0
+		#Range: 0.0 ~ 1.0
+		grow_podzol_fail_chance = 0.0
+		#Cost of splat interaction grow_mycelium, -1 to disable, default:16
+		#Range: -1 ~ 1000
+		grow_mycelium = 16
+		#Cost of splat interaction grow_vines, -1 to disable, default:16
+		#Range: -1 ~ 1000
+		grow_vines = 16
+		#Chance of blob interaction grow_nylium, 0 to disable, default:1.0
+		#Range: 0.0 ~ 1.0
+		grow_nylium_chance = 1.0
+		#Chance of interaction failure grow_nylium, 1 to disable, default:0.0
+		#Range: 0.0 ~ 1.0
+		grow_nylium_fail_chance = 0.0
+		#Chance of blob cost deduction grow_nylium, 0 is free, default:1.0
+		#Range: 0.0 ~ 1.0
+		grow_nylium_drain_chance = 1.0
+		#Cost of splat interaction grow_shroom, -1 to disable, default:16
+		#Range: -1 ~ 1000
+		grow_shroom = 16
+		#Chance of blob cost deduction trigger_growable, 0 is free, default:1.0
+		#Range: 0.0 ~ 1.0
+		trigger_growable_drain_chance = 1.0
+		#Cost of splat interaction grow_podzol, -1 to disable, default:16
+		#Range: -1 ~ 1000
+		grow_podzol = 16
+		#Chance of blob interaction grow_podzol, 0 to disable, default:1.0
+		#Range: 0.0 ~ 1.0
+		grow_podzol_chance = 1.0
+		#Chance of blob cost deduction grow_shroom, 0 is free, default:1.0
+		#Range: 0.0 ~ 1.0
+		grow_shroom_drain_chance = 1.0
+		#Chance of interaction failure grow_vines, 1 to disable, default:0.0
+		#Range: 0.0 ~ 1.0
+		grow_vines_fail_chance = 0.0
+		#Cooldown of splat interaction grow_podzol, default:0
+		#Range: 0 ~ 1000
+		grow_podzol_cooldown = 0
+
+	[general."goo:floral_goo"]
+		#Chance of blob interaction grow_vines, 0 to disable, default:1.0
+		#Range: 0.0 ~ 1.0
+		grow_vines_chance = 1.0
+		#Chance of interaction failure grow_lilypad, 1 to disable, default:0.0
+		#Range: 0.0 ~ 1.0
+		grow_lilypad_fail_chance = 0.0
+		#Cooldown of splat interaction grow_lilypad, default:0
+		#Range: 0 ~ 1000
+		grow_lilypad_cooldown = 0
+		#Cooldown of splat interaction flourish, default:0
+		#Range: 0 ~ 1000
+		flourish_cooldown = 0
+		#Chance of blob interaction trigger_growable, 0 to disable, default:1.0
+		#Range: 0.0 ~ 1.0
+		trigger_growable_chance = 1.0
+		#Chance of blob interaction grow_bark, 0 to disable, default:1.0
+		#Range: 0.0 ~ 1.0
+		grow_bark_chance = 1.0
+		#Cost of splat interaction grow_moss, -1 to disable, default:16
+		#Range: -1 ~ 1000
+		grow_moss = 16
+		#Chance of blob cost deduction grow_grass, 0 is free, default:1.0
+		#Range: 0.0 ~ 1.0
+		grow_grass_drain_chance = 1.0
+		#Chance of blob cost deduction grow_lilypad, 0 is free, default:1.0
+		#Range: 0.0 ~ 1.0
+		grow_lilypad_drain_chance = 1.0
+		#Cost of splat interaction flourish, -1 to disable, default:16
+		#Range: -1 ~ 1000
+		flourish = 16
+		#Chance of interaction failure grow_grass, 1 to disable, default:0.0
+		#Range: 0.0 ~ 1.0
+		grow_grass_fail_chance = 0.0
+		#Chance of interaction failure grow_bark, 1 to disable, default:0.0
+		#Range: 0.0 ~ 1.0
+		grow_bark_fail_chance = 0.0
+		#Cooldown of splat interaction grow_moss, default:0
+		#Range: 0 ~ 1000
+		grow_moss_cooldown = 0
+		#Cooldown of splat interaction grow_bark, default:0
+		#Range: 0 ~ 1000
+		grow_bark_cooldown = 0
+		#Cost of blob interaction trigger_growable, -1 to disable, default:16
+		#Range: -1 ~ 1000
+		trigger_growable = 16
+		#Thrown amount of goo:floral_goo, -1 to disable, default: [I@5bb4407a
+		#Range: -1 ~ 1000
+		thrown_amount = 16
+		#Cooldown of splat interaction grow_grass, default:0
+		#Range: 0 ~ 1000
+		grow_grass_cooldown = 0
+		#Chance of blob interaction grow_lilypad, 0 to disable, default:1.0
+		#Range: 0.0 ~ 1.0
+		grow_lilypad_chance = 1.0
+		#Chance of interaction failure trigger_growable, 1 to disable, default:0.0
+		#Range: 0.0 ~ 1.0
+		trigger_growable_fail_chance = 0.0
+		#Cost of splat interaction grow_lilypad, -1 to disable, default:16
+		#Range: -1 ~ 1000
+		grow_lilypad = 16
+		#Cost of splat interaction grow_grass, -1 to disable, default:16
+		#Range: -1 ~ 1000
+		grow_grass = 16
+		#Chance of blob cost deduction grow_vines, 0 is free, default:1.0
+		#Range: 0.0 ~ 1.0
+		grow_vines_drain_chance = 1.0
+		#Cost of blob interaction grow_vines, -1 to disable, default:16
+		#Range: -1 ~ 1000
+		grow_vines = 16
+		#Chance of blob interaction flourish, 0 to disable, default:1.0
+		#Range: 0.0 ~ 1.0
+		flourish_chance = 1.0
+		#Chance of interaction failure flourish, 1 to disable, default:0.8
+		#Range: 0.0 ~ 1.0
+		flourish_fail_chance = 0.8
+		#Chance of blob interaction grow_moss, 0 to disable, default:1.0
+		#Range: 0.0 ~ 1.0
+		grow_moss_chance = 1.0
+		#Chance of interaction failure grow_moss, 1 to disable, default:0.0
+		#Range: 0.0 ~ 1.0
+		grow_moss_fail_chance = 0.0
+		#Chance of blob interaction grow_grass, 0 to disable, default:1.0
+		#Range: 0.0 ~ 1.0
+		grow_grass_chance = 1.0
+		#Chance of blob cost deduction grow_moss, 0 is free, default:1.0
+		#Range: 0.0 ~ 1.0
+		grow_moss_drain_chance = 1.0
+		#Chance of blob cost deduction trigger_growable, 0 is free, default:1.0
+		#Range: 0.0 ~ 1.0
+		trigger_growable_drain_chance = 1.0
+		#Chance of blob cost deduction flourish, 0 is free, default:1.0
+		#Range: 0.0 ~ 1.0
+		flourish_drain_chance = 1.0
+		#Chance of interaction failure grow_vines, 1 to disable, default:0.0
+		#Range: 0.0 ~ 1.0
+		grow_vines_fail_chance = 0.0
+		#Chance of blob cost deduction grow_bark, 0 is free, default:1.0
+		#Range: 0.0 ~ 1.0
+		grow_bark_drain_chance = 1.0
+		#Cost of splat interaction grow_bark, -1 to disable, default:16
+		#Range: -1 ~ 1000
+		grow_bark = 16
+

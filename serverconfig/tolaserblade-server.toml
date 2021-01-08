@@ -1,0 +1,27 @@
+
+#ToLaserBlade's game server side settings.
+[server]
+	#A boolean value represents whether laser trap can attack player or not. This setting is valid when enableLaserTrap is true.
+	#Default: false
+	canLaserTrapAttackPlayer = false
+	#Enable to attack with Laser Blade in Dispenser when the dispenser is activated.
+	#Default: true
+	enableLaserTrap = true
+	#A boolean value represents whether laser trap with fireproof Laser Blade can heat up furnace or not. This setting is valid when enableLaserTrap is true.
+	#Default: true
+	canLaserTrapHeatUpFurnace = true
+	#Enable blocking with Laser Blade.
+	#Default: false
+	enableBlockingWithLaserBlade = false
+	#An integer value (0-39) that is maximum count of attack damage upgrade of Laser Blade.
+	#Note:
+	#  Making the advancement [It's Over 9] requires 3 or more.
+	#  Similarly, [Beyond the Limit] requires 8 or more.
+	#Default: 8
+	#Range: 0 ~ 39
+	maxAttackDamageUpgradeCount = 8
+	#An integer value (0-128) that is a factor of mining speed of Laser Blade.
+	#Default: 12
+	#Range: 0 ~ 128
+	laserBladeEfficiency = 12
+

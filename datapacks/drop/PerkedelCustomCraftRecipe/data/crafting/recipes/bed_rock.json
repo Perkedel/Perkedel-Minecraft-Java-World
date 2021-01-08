@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#S"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:white_bed"
+        },
+        "S": {
+            "item": "minecraft:stone"
+        }
+    },
+    "result": {
+        "item": "minecraft:bedrock",
+        "count": 1
+    },
+    "group": "Perkedel"
+}

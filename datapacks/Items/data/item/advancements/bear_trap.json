@@ -1,0 +1,13 @@
+{
+  "rewards": {
+    "function": "item:bear_trap_craft"
+  },
+  "criteria": {
+    "Recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "item:bear_trap"
+      }
+    }
+  }
+}

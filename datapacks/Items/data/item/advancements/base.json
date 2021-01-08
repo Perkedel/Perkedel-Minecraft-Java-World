@@ -1,0 +1,18 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:iron_sword",
+      "nbt": "{CustomModelData:1234567}"
+    },
+    "title": "More weapons and armor",
+    "description": "The battle begins",
+    "background": "minecraft:textures/block/smithing_table_top.png",
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "root": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}

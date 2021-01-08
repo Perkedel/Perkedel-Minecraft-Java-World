@@ -1,0 +1,6 @@
+execute if score $current_move_type mb_move_type matches 1 as @e[type=armor_stand,tag=edta_movable_build,tag=center] if score @s mb_build_id = $current_id mb_build_id at @s run function movable_builds:move/forward
+execute if score $current_move_type mb_move_type matches 2 as @e[type=armor_stand,tag=edta_movable_build,tag=center] if score @s mb_build_id = $current_id mb_build_id at @s run function movable_builds:move/backward
+execute if score $current_move_type mb_move_type matches 3 as @e[type=armor_stand,tag=edta_movable_build,tag=center] if score @s mb_build_id = $current_id mb_build_id at @s run function movable_builds:move/right
+execute if score $current_move_type mb_move_type matches 4 as @e[type=armor_stand,tag=edta_movable_build,tag=center] if score @s mb_build_id = $current_id mb_build_id at @s run function movable_builds:move/left
+execute if score $current_move_type mb_move_type matches 5 as @e[type=armor_stand,tag=edta_movable_build,tag=center] if score @s mb_build_id = $current_id mb_build_id at @s run function movable_builds:move/up
+execute if score $current_move_type mb_move_type matches 6 as @e[type=armor_stand,tag=edta_movable_build,tag=center] if score @s mb_build_id = $current_id mb_build_id at @s run function movable_builds:move/down

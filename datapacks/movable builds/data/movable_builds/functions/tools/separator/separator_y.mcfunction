@@ -1,0 +1,2 @@
+execute if score $y_loc mb_number matches 0.. run function movable_builds:tools/separator/separator_y_pos
+execute unless score $y_loc mb_number matches 0.. run function movable_builds:tools/separator/separator_y_neg

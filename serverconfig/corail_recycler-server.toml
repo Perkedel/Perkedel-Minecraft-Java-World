@@ -1,0 +1,7 @@
+
+[General]
+	#allow_automation [false/true|default:true]
+	allow_automation = true
+	#unbalanced_recipes [false/true|default:false]
+	unbalanced_recipes = false
+

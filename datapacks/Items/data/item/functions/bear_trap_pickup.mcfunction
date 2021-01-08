@@ -1,0 +1,4 @@
+#execute unless score @s executed matches 1 store result score @s executed run give @p ravager_spawn_egg{CustomModelData:1234567,display:{Name:'{"text":"Bear Trap","italic":"false"}'},EntityTag:{id:"armor_stand",Tags:["bear_trap","new_trap"]}}
+#clear @p ravager_spawn_egg{CustomModelData:1234567,display:{Name:'{"text":"Bear Trap","italic":"false"}'},EntityTag:{id:"armor_stand",Tags:["bear_trap","new_trap"]}} 1
+summon item ~ ~ ~ {Item:{id:"ravager_spawn_egg",Count:1,tag:{CustomModelData:1234567,display:{Name:'{"text":"Bear Trap","italic":"false"}'},EntityTag:{id:"armor_stand",Tags:["bear_trap","new_trap"]}}}}
+kill @s

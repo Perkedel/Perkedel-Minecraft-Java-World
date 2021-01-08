@@ -1,0 +1,2 @@
+give @s minecraft:carrot_on_a_stick{display:{Name:"{\"text\":\"Movable Build Mover\"}",Lore:["\"Move the latest build 3 spaces in front of you.\""]},Unbreakable:1,mb-use-type:2,CustomModelData:5420101,Enchantments:[{id:mending,lvl:1}]} 1
+function movable_builds:extras/no_command_fb

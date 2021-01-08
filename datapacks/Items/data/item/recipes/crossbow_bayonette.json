@@ -1,0 +1,15 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:crossbow"
+        },
+        {
+            "item": "minecraft:iron_sword"
+        }
+    ],
+    "result": {
+        "item": "minecraft:book",
+        "count": 1
+    }
+}

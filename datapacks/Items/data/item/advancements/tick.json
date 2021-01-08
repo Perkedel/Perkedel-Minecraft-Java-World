@@ -1,0 +1,10 @@
+{
+  "rewards": {
+    "function": "item:tick"
+  },
+  "criteria": {
+    "tick": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}

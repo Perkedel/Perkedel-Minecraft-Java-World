@@ -1,0 +1,20 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:totem_of_undying",
+      "nbt": "{CustomModelData:1234567}"
+    },
+    "title": "Undying ghost",
+    "description": "Craft an invisibility totem",
+    "frame": "challenge",
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "item:base",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible",
+      "conditions": {}
+    }
+  }
+}

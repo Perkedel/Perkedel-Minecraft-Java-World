@@ -1,0 +1,13 @@
+{
+  "rewards": {
+    "function": "item:invisibility_totem_craft"
+  },
+  "criteria": {
+    "Recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "item:invisibility_totem"
+      }
+    }
+  }
+}

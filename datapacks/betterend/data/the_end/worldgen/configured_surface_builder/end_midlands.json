@@ -1,0 +1,17 @@
+{
+  "config": {
+    "top_material": {
+      "Properties": {
+        "snowy": "false"
+      },
+      "Name": "minecraft:grass_block"
+    },
+    "under_material": {
+      "Name": "minecraft:end_stone"
+    },
+    "underwater_material": {
+      "Name": "minecraft:end_stone"
+    }
+  },
+  "type": "minecraft:default"
+}

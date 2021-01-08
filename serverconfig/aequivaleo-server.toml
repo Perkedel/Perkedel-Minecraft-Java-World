@@ -1,0 +1,28 @@
+
+#aequivaleo.config.debugging.comment
+[debugging]
+
+	[debugging.debugging]
+
+		[debugging.debugging.export]
+			#aequivaleo.config.debugging.export.graph.comment
+			graph = false
+
+		[debugging.debugging.write]
+			#aequivaleo.config.debugging.write.graph.comment
+			graph = false
+
+#aequivaleo.config.recipes.comment
+[recipes]
+
+	[recipes.recipes]
+
+		[recipes.recipes.ingredients]
+			#aequivaleo.config.recipes.ingredients.none-simple.comment
+			none-simple = true
+
+			[recipes.recipes.ingredients.error]
+				#aequivaleo.config.recipes.ingredients.error.logging.comment
+				#Allowed Values: NONE, JUST_ITEMS, FULL
+				logging = "FULL"
+

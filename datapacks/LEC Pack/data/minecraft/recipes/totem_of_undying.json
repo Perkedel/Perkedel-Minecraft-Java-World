@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"ABA",
+		"BEB",
+		"ABA"
+	],
+	"key": {
+		"A": {
+			"item": "minecraft:diamond_block"
+		},
+		"B": {
+			"item": "minecraft:emerald_block"
+		},
+		"E": {
+			"item": "minecraft:gold_ingot"
+		}
+	},
+	"result": {
+		"item": "minecraft:totem_of_undying"
+	}
+}

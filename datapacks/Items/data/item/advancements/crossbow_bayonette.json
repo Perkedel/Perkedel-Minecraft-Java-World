@@ -1,0 +1,13 @@
+{
+  "rewards": {
+    "function": "item:crossbow_bayonette_craft"
+  },
+  "criteria": {
+    "Recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "item:crossbow_bayonette"
+      }
+    }
+  }
+}

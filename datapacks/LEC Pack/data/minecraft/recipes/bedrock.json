@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"AAA",
+		"AEA",
+		"AAA"
+	],
+	"key": {
+		"A": {
+			"item": "minecraft:netherite_block"
+		},
+		"E": {
+			"item": "minecraft:diamond"
+		}
+	},
+	"result": {
+		"item": "minecraft:bedrock",
+		"count": 2
+	}
+}

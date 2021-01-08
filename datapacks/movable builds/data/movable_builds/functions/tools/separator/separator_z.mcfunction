@@ -1,0 +1,2 @@
+execute if score $z_loc mb_number matches 0.. run function movable_builds:tools/separator/separator_z_pos
+execute unless score $z_loc mb_number matches 0.. run function movable_builds:tools/separator/separator_z_neg

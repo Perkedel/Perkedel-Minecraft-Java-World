@@ -1,0 +1,20 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "i",
+        "o",
+        "o"
+    ],
+    "key": {
+        "o": {
+            "item": "minecraft:end_rod"
+        },
+        "i": {
+            "item": "minecraft:heart_of_the_sea"
+        }
+    },
+    "result": {
+        "item": "minecraft:end_rod",
+        "count": 1
+    }
+}

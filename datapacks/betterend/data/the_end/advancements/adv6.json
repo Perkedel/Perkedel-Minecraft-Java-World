@@ -1,0 +1,27 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "Slimed Eye"
+        },
+        "description": {
+            "text": "Create Slime with a eye of ender and water bucket"
+        },
+        "icon": {
+            "item": "minecraft:slime_ball"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "rec567890": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "the_end:slime_ball"
+            }
+        }
+    },
+    "parent": "the_end:root"
+}

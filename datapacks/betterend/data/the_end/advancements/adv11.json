@@ -1,0 +1,32 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "Insomnia Master"
+        },
+        "description": {
+            "text": "Kill a phantom, in the end, when you can't sleep."
+        },
+        "icon": {
+            "item": "minecraft:torch"
+        },
+        "frame": "challenge",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "awjkl": {
+            "trigger": "minecraft:player_killed_entity",
+            "conditions": {
+                "entity": {
+                    "type": "minecraft:phantom",
+                    "location": {
+                        "dimension": "the_end"
+                    }
+                }
+            }
+        }
+    },
+    "parent": "the_end:adv9"
+}

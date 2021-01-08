@@ -1,0 +1,13 @@
+{
+  "rewards": {
+    "function": "item:iron_hook_craft"
+  },
+  "criteria": {
+    "Recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "item:iron_hook"
+      }
+    }
+  }
+}

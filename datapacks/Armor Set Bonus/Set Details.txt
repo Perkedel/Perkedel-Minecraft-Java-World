@@ -1,0 +1,86 @@
+#Intended Purpose: Quick travel through the
+#Overworld w/out an Elytra
+
+Turtle set
+	- Turtle Shell
+		- Respiration III
+		- Aqua Affinity
+	- Diamond Chestplate
+	- Diamond Leggings
+	- Diamond Boots
+		- Depth Strider III
+
+
+#Intended Purpose: An upgrade to the Turtle set 
+#for even better control over the weather
+
+Master Turtle set
+	- Turtle Shell
+		- Respiration III
+		- Aqua Affinity
+	- Netherite Chestplate
+	- Netherite Leggings
+	- Netherite Boots
+		- Depth Strider III
+
+
+#Intended Purpose: An upgrade to the Turtle set 
+#for even faster Overworld travel
+
+Thunderbolt set
+	- Turtle Shell
+		- Respiration III
+		- Aqua Affinity
+	- Elytra
+	- Netherite Leggings
+	- Netherite Boots
+		- Depth Strider III
+		- Feather Falling IV
+
+
+#Intended Purpose: Diamond set but with wings
+
+Elytra set
+	- Diamond Helmet
+	- Elytra
+	- Diamond Leggings
+	- Diamond Boots
+
+
+#Intended Purpose: Netherite set but with wings, 
+#also allows for easier flight near end cities
+
+Ultimate Elytra set
+	- Netherite Helmet
+	- Elytra
+	- Netherite Leggings
+	- Netherite Boots
+
+
+#Intended Purpose: God-hood, you've earned it
+
+God set
+	- Netherite Helmet 
+		- Mending
+		- Unbreaking III
+		- Protection IV
+		- Thorns III
+		- Respiration III
+		- Aqua Affinity
+	- Netherite Chestplate
+		- Mending
+		- Unbreaking III
+		- Protection IV
+		- Thorns III
+	- Netherite Leggings
+		- Mending
+		- Unbreaking III
+		- Protection IV
+		- Thorns III
+	- Netherite Boots 
+		- Mending
+		- Unbreaking III
+		- Protection IV
+		- Thorns III
+		- Feather Falling IV
+		- Soul Speed III

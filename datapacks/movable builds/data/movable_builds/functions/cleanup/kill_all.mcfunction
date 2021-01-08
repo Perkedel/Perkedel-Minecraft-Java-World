@@ -1,0 +1,1 @@
+kill @e[tag=edta_movable_build]

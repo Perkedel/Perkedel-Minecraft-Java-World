@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "set_bonus:check_player",
+	"set_bonus:check_mob",
+	"set_bonus:setup"
+  ]
+}

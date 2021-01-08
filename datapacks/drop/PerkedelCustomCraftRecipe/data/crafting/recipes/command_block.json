@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "#B#",
+        "#R#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:bedrock"
+        },
+        "B": {
+            "item": "minecraft:book"
+        },
+        "R": {
+            "item": "minecraft:redstone"
+        }
+    },
+    "result": {
+        "item": "minecraft:command_block",
+        "count": 1
+    },
+    "group": "Perkedel"
+}

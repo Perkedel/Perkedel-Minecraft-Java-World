@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "minecraft:iron_boots"
+    },
+    "result": "minecraft:chainmail_boots",
+    "group": "Perkedel",
+    "count": 1
+}

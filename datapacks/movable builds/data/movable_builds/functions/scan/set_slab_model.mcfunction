@@ -1,0 +1,2 @@
+execute if block ~ ~ ~ #minecraft:slabs[type=top] run data modify entity @s ArmorItems[3] merge value {tag:{CustomModelData:5420101}}
+execute if block ~ ~ ~ #minecraft:slabs[type=double] run data modify entity @s ArmorItems[3] merge value {tag:{CustomModelData:5420102}}

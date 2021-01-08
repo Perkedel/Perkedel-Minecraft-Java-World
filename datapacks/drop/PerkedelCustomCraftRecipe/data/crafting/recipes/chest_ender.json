@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing",
+    "base": {
+        "item": "minecraft:chest"
+    },
+    "addition": {
+        "item": "minecraft:ender_eye"
+    },
+    "result": {
+        "item": "minecraft:ender_chest"
+    }
+}

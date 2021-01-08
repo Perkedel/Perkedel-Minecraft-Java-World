@@ -1,0 +1,2 @@
+give @s minecraft:carrot_on_a_stick{display:{Name:"{\"text\":\"Duplicator tool\"}",Lore:["\"Hold in offhand to activate.\"","\"Then Sneak+Drop tool to duplicate.\""]},Unbreakable:1,mb_duplicator:1,CustomModelData:5420106,Enchantments:[{id:mending,lvl:1}]} 1
+function movable_builds:extras/no_command_fb

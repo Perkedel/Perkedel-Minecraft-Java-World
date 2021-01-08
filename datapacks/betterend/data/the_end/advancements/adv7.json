@@ -1,0 +1,27 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "Warped Planes"
+        },
+        "description": {
+            "text": "Enter the Warped Planes Biomes (end midlands)"
+        },
+        "icon": {
+            "item": "minecraft:warped_hyphae"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "endt3thd": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:end_midlands"
+            }
+        }
+    },
+    "parent": "the_end:root"
+}

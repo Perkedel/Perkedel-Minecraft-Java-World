@@ -1,0 +1,13 @@
+{
+  "rewards": {
+    "function": "item:position_swapper_craft"
+  },
+  "criteria": {
+    "Recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "item:position_swapper"
+      }
+    }
+  }
+}

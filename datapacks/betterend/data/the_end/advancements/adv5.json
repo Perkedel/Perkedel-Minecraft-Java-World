@@ -1,0 +1,27 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "Flower Fertilizer"
+        },
+        "description": {
+            "text": "Make Bone Meal using a chorus flower"
+        },
+        "icon": {
+            "item": "minecraft:bone_meal"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "rec138": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "the_end:bone_meal"
+            }
+        }
+    },
+    "parent": "the_end:adv2"
+}

@@ -1,0 +1,13 @@
+{
+  "rewards": {
+    "function": "item:levitation_shovel_craft"
+  },
+  "criteria": {
+    "Recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "item:levitation_shovel"
+      }
+    }
+  }
+}

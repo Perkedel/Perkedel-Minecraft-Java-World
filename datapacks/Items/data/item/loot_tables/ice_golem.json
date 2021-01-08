@@ -1,0 +1,42 @@
+{
+  "pools": [
+    {
+      "rolls": {
+        "min": 1,
+        "max": 3
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "ice",
+          "weight": 100
+        },
+        {
+          "type": "minecraft:item",
+          "name": "packed_ice",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "blue_ice",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "diamond_boots",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Ice Boots\",\"italic\":\"false\",\"color\":\"#77ffff\"}',Lore:['{\"text\":\"Freezing\",\"italic\":\"false\",\"color\":\"gray\"}']},Enchantments:[{}]}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

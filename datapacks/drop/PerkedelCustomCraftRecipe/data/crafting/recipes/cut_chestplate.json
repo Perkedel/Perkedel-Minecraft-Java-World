@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "minecraft:iron_chestplate"
+    },
+    "result": "minecraft:chainmail_chestplate",
+    "group": "Perkedel",
+    "count": 1
+}

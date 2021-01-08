@@ -1,0 +1,2 @@
+scoreboard players set @s item.spawned 1
+execute if entity @s[type=skeleton] if predicate item:overworld if predicate item:in_cave if predicate item:0.1 run data merge entity @s {ArmorItems:[{},{},{},{id:"carrot_on_a_stick",Count:1,tag:{CustomModelData:1234569,display:{Name:'{"text":"Night Vision Goggles","italic":"false"}'}}}],HandItems:[{id:"iron_pickaxe",Count:1},{}]}

@@ -1,0 +1,2 @@
+shell.openTab("repeat")
+

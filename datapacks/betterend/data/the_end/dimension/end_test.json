@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:overworld",
+  "generator": {
+    "type": "minecraft:noise",
+    "seed": -91655475,
+    "biome_source": {
+      "type": "minecraft:fixed",
+      "seed": -91655475,
+      "biome": "minecraft:small_end_islands"
+    },
+    "settings": "minecraft:overworld"
+  }
+}

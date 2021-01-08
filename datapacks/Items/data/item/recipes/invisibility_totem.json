@@ -1,0 +1,21 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:totem_of_undying"
+        },
+        {
+            "item": "minecraft:dragon_breath"
+        },
+        {
+            "item": "minecraft:golden_carrot"
+        },
+        {
+            "item": "minecraft:fermented_spider_eye"
+        }
+    ],
+    "result": {
+        "item": "minecraft:book",
+        "count": 1
+    }
+}

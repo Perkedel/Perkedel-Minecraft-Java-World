@@ -1,0 +1,6 @@
+tellraw @s [{"text":"\nTools: ","color":"aqua"},{"text":"[Get Mover Tool]","underlined":true,"color":"dark_green","clickEvent":{"action":"run_command","value":"/function movable_builds:tools/get_move_tool"}}, {"text":"   "},{"text":"[Get Info Tool]","underlined":true,"color":"dark_green","clickEvent":{"action":"run_command","value":"/function movable_builds:tools/get_info_tool"}}]
+tellraw @s [{"text":"\nThere are essentiale 3 ways to move a build, once created:","color":"aqua"}]
+tellraw @s [{"text":"  1. A simple method that requires no commands. ","color":"aqua"},{"text":"[More info]","underlined":true,"color":"gray","clickEvent":{"action":"run_command","value":"/function  movable_builds:move/help_simple"}}]
+tellraw @s [{"text":"  2. An inbetween method that uses 1 command. ","color":"aqua"},{"text":"[More info]","underlined":true,"color":"gray","clickEvent":{"action":"run_command","value":"/function  movable_builds:move/help_middle"}}]
+tellraw @s [{"text":"  3. A more complex method that is extra flexible. ","color":"aqua"},{"text":"[More info]","underlined":true,"color":"gray","clickEvent":{"action":"run_command","value":"/function  movable_builds:move/help_flexible"}}, {"text":"\n"}]
+function movable_builds:extras/no_command_fb

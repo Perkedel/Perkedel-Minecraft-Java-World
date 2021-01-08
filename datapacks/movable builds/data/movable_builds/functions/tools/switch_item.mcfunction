@@ -1,0 +1,3 @@
+execute as @e[type=minecraft:item,sort=nearest,limit=1,nbt={Item:{id:"minecraft:carrot_on_a_stick",tag:{mb-use-type:6}},PickupDelay:40s}] run function movable_builds:tools/move/next_rotate_tool
+execute as @e[type=minecraft:item,sort=nearest,limit=1,nbt={Item:{id:"minecraft:carrot_on_a_stick",tag:{mb-use-type:7}},PickupDelay:40s}] run function movable_builds:tools/move/next_rel_move_tool
+execute as @e[type=minecraft:item,sort=nearest,limit=1,nbt={Item:{id:"minecraft:carrot_on_a_stick",tag:{mb-use-type:8}},PickupDelay:40s}] run function movable_builds:tools/move/next_abs_move_tool

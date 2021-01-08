@@ -1,0 +1,31 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "Purple Rock?"
+        },
+        "description": {
+            "text": "Obtain a Popped Chorus Fruit"
+        },
+        "icon": {
+            "item": "minecraft:popped_chorus_fruit"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "endy234": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:popped_chorus_fruit"
+                    }
+                ]
+            }
+        }
+    },
+    "parent": "the_end:adv2"
+}

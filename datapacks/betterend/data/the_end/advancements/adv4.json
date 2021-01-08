@@ -1,0 +1,27 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "Purple Rock + Black Rock = Sad Rock"
+        },
+        "description": {
+            "text": "Create crying obsidian with 1 obsidian and 3 popped chorus fruit"
+        },
+        "icon": {
+            "item": "minecraft:crying_obsidian"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "rec124": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "the_end:crying_obsidian"
+            }
+        }
+    },
+    "parent": "the_end:adv3"
+}

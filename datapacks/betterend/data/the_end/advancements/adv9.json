@@ -1,0 +1,27 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "Dragonwood Jungle"
+        },
+        "description": {
+            "text": "Enter either a dragonwood jungle or small end islands"
+        },
+        "icon": {
+            "item": "minecraft:crimson_stem"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "ertyghjkk": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:small_end_islands"
+            }
+        }
+    },
+    "parent": "the_end:root"
+}

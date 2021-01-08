@@ -1,0 +1,2 @@
+give @s minecraft:carrot_on_a_stick{display:{Name:"{\"text\":\"Movable Build Scanner\"}",Lore:["\"Point and click to create new movable build.\""]},Unbreakable:1,mb-use-type:1,CustomModelData:5420100,Enchantments:[{id:mending,lvl:1}]} 1
+function movable_builds:extras/no_command_fb

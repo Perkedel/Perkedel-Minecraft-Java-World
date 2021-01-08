@@ -1,0 +1,27 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "End Barrens"
+        },
+        "description": {
+            "text": "Enter an End barren"
+        },
+        "icon": {
+            "item": "minecraft:iron_ore"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "loca": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:end_barrens"
+            }
+        }
+    },
+    "parent": "the_end:root"
+}
