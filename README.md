@@ -24,6 +24,11 @@ Use Forge
 - **Bookshelf https://www.curseforge.com/minecraft/mc-mods/bookshelf**
 - **Entity Culling https://www.curseforge.com/minecraft/mc-mods/entityculling**
 - **KleeSlabs https://www.curseforge.com/minecraft/mc-mods/kleeslabs**
+- ~~**Wooden Hoppers https://www.curseforge.com/minecraft/mc-mods/wooden-hoppers**~~ Fabric
+- **Brick Hopper https://www.curseforge.com/minecraft/mc-mods/brick-hopper**
+- **Golden Hopper https://www.curseforge.com/minecraft/mc-mods/golden-hopper**
+- **Upper https://www.curseforge.com/minecraft/mc-mods/uppers**
+- **Flopper https://www.curseforge.com/minecraft/mc-mods/flopper**
 - **Simply Lights https://www.curseforge.com/minecraft/mc-mods/simply-light**
 - **Refined Storage https://www.curseforge.com/minecraft/mc-mods/refined-storage**
 - **Refined Storage Addons https://www.curseforge.com/minecraft/mc-mods/refined-storage-addons**
@@ -274,6 +279,7 @@ Use Forge
 - **LibX https://www.curseforge.com/minecraft/mc-mods/libx**
 - ~~**Bountiful https://www.curseforge.com/minecraft/mc-mods/bountiful**~~ Error! missing for 1.18.2 ish
 - Ding https://www.curseforge.com/minecraft/mc-mods/ding
+- **Evilcraft https://www.curseforge.com/minecraft/mc-mods/evilcraft**
 
 losing mods in **THICC** may / will break the entire world. **NEVER LOSE MODS IN THICC** if you can.
 Those mods are essentially used, library dependency, guaranteed lags no computer (hence shouldn't be removed if to resolve lag), and/or silly to remove.
