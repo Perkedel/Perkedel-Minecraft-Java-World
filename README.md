@@ -113,11 +113,13 @@ Use Forge
 - **Tom's storage https://www.curseforge.com/minecraft/mc-mods/toms-storage**
 - **ParCool https://www.curseforge.com/minecraft/mc-mods/parcool**
 - **Parkour Recorder https://www.curseforge.com/minecraft/mc-mods/parkour-recorder**
-- **Industrial Reborn https://www.curseforge.com/minecraft/mc-mods/industrial-reborn**
+- ~~**Industrial Craft Reborn https://www.curseforge.com/minecraft/mc-mods/industrial-reborn**~~ Broken `java.lang.reflect.InvocationTargetException: null`, see bellow workaround
+- **Industrial Craft https://jenkins.ic2.player.to/job/IC2/job/1.18/ from comment PolandSpaceProgram of [here](https://www.curseforge.com/minecraft/mc-mods/industrial-reborn?comment=191)**
 - **backslot https://www.curseforge.com/minecraft/mc-mods/backslot**
 - ~~**Equipment Tooltips https://www.curseforge.com/minecraft/mc-mods/equipment-tooltips**~~ Error! missing for 1.18.2 ish
 - **Better F3 https://www.curseforge.com/minecraft/mc-mods/betterf3**
 - **Feature NBT Deadlock be gone https://www.curseforge.com/minecraft/mc-mods/feature-nbt-deadlock-be-gone** Fix for 1.18 deadlock due to NBT override [here bug](https://bugs.mojang.com/browse/MC-246262), **Seems irreproducible in 1.19 yey!!! yeey?**
+- **Every Compat https://www.curseforge.com/minecraft/mc-mods/every-compat**
 - Clumps https://www.curseforge.com/minecraft/mc-mods/clumps (Just Server, needed)
 - FPS Reducer https://www.curseforge.com/minecraft/mc-mods/fps-reducer
 - ~~**Valkirie Lib https://www.curseforge.com/minecraft/mc-mods/valkyrielib**~~ Error! missing for 1.18.2 ish. weird, you skipped to 1.19!?!?!
@@ -166,8 +168,8 @@ Use Forge
 - **Aquaculture 2 https://www.curseforge.com/minecraft/mc-mods/aquaculture**
 - **Light Overlay https://www.curseforge.com/minecraft/mc-mods/light-overlay**
 - **Suplementaries https://www.curseforge.com/minecraft/mc-mods/supplementaries**
-- **Farmer's Delight https://www.curseforge.com/minecraft/mc-mods/farmers-delight**
-- **Nether's Delight https://www.curseforge.com/minecraft/mc-mods/nethers-delight**
+- ~~**Farmer's Delight https://www.curseforge.com/minecraft/mc-mods/farmers-delight**~~ Valhelsia broke
+- ~~**Nether's Delight https://www.curseforge.com/minecraft/mc-mods/nethers-delight**~~ Valhelsia broke
 - **Ore Excavation https://www.curseforge.com/minecraft/mc-mods/ore-excavation**
 - **Citadel https://www.curseforge.com/minecraft/mc-mods/citadel**
 - **mmmmmmmmmmmmmmmmmmmmmm https://www.curseforge.com/minecraft/mc-mods/mmmmmmmmmmmm**
@@ -271,6 +273,7 @@ Use Forge
 - ~~**Redstone Arsenal https://www.curseforge.com/minecraft/mc-mods/redstone-arsenal**~~ Error! Missing for 1.18.2 ish
 - **Advanced Generators https://www.curseforge.com/minecraft/mc-mods/advanced-generators**
 - ~~**Astral Society https://www.curseforge.com/minecraft/mc-mods/astral-sorcery**~~ Error! Missing for 1.18.2 ish
+- **SuperMartinjn642 Core Lib https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-core-lib**
 - **SuperMartinjn642 Config Lib https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-config-lib**
 - **Cyclic https://www.curseforge.com/minecraft/mc-mods/cyclic**
 - **LazyDFU https://www.curseforge.com/minecraft/mc-mods/lazy-dfu-forge**
@@ -322,7 +325,7 @@ Use Forge
 - **Multi-piston https://www.curseforge.com/minecraft/mc-mods/multi-piston**
 - **Domum Ornamentum https://www.curseforge.com/minecraft/mc-mods/domum-ornamentum**
 - **Tip The Scales https://www.curseforge.com/minecraft/mc-mods/tipthescales**
-- JEI Tweaker https://www.curseforge.com/minecraft/mc-mods/jeitweaker
+- ~~JEI Tweaker https://www.curseforge.com/minecraft/mc-mods/jeitweaker~~ Requires CraftTweaker (Not good idea?)
 - Skin Layers 3D https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d
 - **Construction Wand https://www.curseforge.com/minecraft/mc-mods/construction-wand**
 - **Guard Villager https://www.curseforge.com/minecraft/mc-mods/guard-villagers**
@@ -338,7 +341,7 @@ Use Forge
 - **Kiwi https://www.curseforge.com/minecraft/mc-mods/kiwi**
 - **Find Me https://www.curseforge.com/minecraft/mc-mods/findme**
 - **Chipped https://www.curseforge.com/minecraft/mc-mods/chipped**
-- **Forbidden & Arcanus https://www.curseforge.com/minecraft/mc-mods/forbidden-arcanus**
+- ~~**Forbidden & Arcanus https://www.curseforge.com/minecraft/mc-mods/forbidden-arcanus**~~ Valhelsia broke
 - **Extreme Reactors https://www.curseforge.com/minecraft/mc-mods/extreme-reactors**
 - **Security Craft https://www.curseforge.com/minecraft/mc-mods/security-craft**
 - ~~**Immersive Petroleum https://www.curseforge.com/minecraft/mc-mods/immersive-petroleum**~~ Error! missinf for 1.18.2 ish. Pls wait, port there WIP
@@ -356,6 +359,9 @@ Use Forge
 - **Kobolds https://www.curseforge.com/minecraft/mc-mods/kobolds**
 - **Connectivity https://www.curseforge.com/minecraft/mc-mods/connectivity**
 - **bad packets https://www.curseforge.com/minecraft/mc-mods/badpackets**
+- **Flytre Lib https://www.curseforge.com/minecraft/mc-mods/lib** whoah, lucky, you claimed `lib` name!!!
+- **Flytre Gun https://www.curseforge.com/minecraft/mc-mods/flytres-gun-mod**
+- **Expandability https://www.curseforge.com/minecraft/mc-mods/expandability**
 
 losing mods in **THICC** may / will break the entire world. **NEVER LOSE MODS IN THICC** if you can.
 Those mods are essentially used, library dependency, guaranteed lags no computer (hence shouldn't be removed if to resolve lag), and/or silly to remove.
