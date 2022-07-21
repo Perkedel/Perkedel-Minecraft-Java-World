@@ -17,9 +17,12 @@ Use Forge
 
 ## Here mod!
 - Optifine https://optifine.net
+- **Smooth Boot https://www.curseforge.com/minecraft/mc-mods/smooth-boot-reloaded** [old](https://www.curseforge.com/minecraft/mc-mods/smooth-boot-forge)
+- **Fastload https://www.curseforge.com/minecraft/mc-mods/fastload**
 - **ComputerCraft https://www.curseforge.com/minecraft/mc-mods/cc-tweaked** ADVANCED COMPUTERITZATIONS LUA
 - **Create https://www.curseforge.com/minecraft/mc-mods/create** COMPREHENSIVE MECHANICS
 - **Flywheel https://www.curseforge.com/minecraft/mc-mods/flywheel**
+- **Aequivaleo https://www.curseforge.com/minecraft/mc-mods/aequivaleo**
 - **Lucky Block https://www.curseforge.com/minecraft/mc-mods/lucky-block** MEME
 - **Lucky TNT https://www.curseforge.com/minecraft/mc-mods/luckytnt** MOAR TNT finally
 - **Extra TNT https://www.curseforge.com/minecraft/mc-mods/extra-tnt** MOAR TNT MOAR
@@ -39,6 +42,7 @@ Use Forge
 - **Patchouli https://www.curseforge.com/minecraft/mc-mods/patchouli**
 - **Placebo https://www.curseforge.com/minecraft/mc-mods/placebo**
 - **Bookshelf https://www.curseforge.com/minecraft/mc-mods/bookshelf**
+- Dynamic Lights https://www.curseforge.com/minecraft/mc-mods/dynamic-lights
 - Tips https://www.curseforge.com/minecraft/mc-mods/tips
 - **TerraBlender https://www.curseforge.com/minecraft/mc-mods/terrablender**
 - **Entity Culling https://www.curseforge.com/minecraft/mc-mods/entityculling**
@@ -49,8 +53,15 @@ Use Forge
 - **Upper https://www.curseforge.com/minecraft/mc-mods/uppers**
 - **Flopper https://www.curseforge.com/minecraft/mc-mods/flopper**
 - **Simply Lights https://www.curseforge.com/minecraft/mc-mods/simply-light**
+- **Extended Lights https://www.curseforge.com/minecraft/mc-mods/extended-lights-mod**
+- **Additional Lights https://www.curseforge.com/minecraft/mc-mods/additional-lights** Resource pack for faithful x32 available, descriptions.
 - **Refined Storage https://www.curseforge.com/minecraft/mc-mods/refined-storage**
 - **Refined Storage Addons https://www.curseforge.com/minecraft/mc-mods/refined-storage-addons**
+- **Refined Storage Requestify https://www.curseforge.com/minecraft/mc-mods/rs-requestify**
+- **Refined Storage Extra Storage https://www.curseforge.com/minecraft/mc-mods/extrastorage**
+- **Refined Storage Extra Disks https://www.curseforge.com/minecraft/mc-mods/extra-disks**
+- **Refined Storage Reborn Storage https://www.curseforge.com/minecraft/mc-mods/rebornstorage**
+- **Refined Storage Cable Tiers https://www.curseforge.com/minecraft/mc-mods/cable-tiers**
 - **Mekanism https://www.curseforge.com/minecraft/mc-mods/mekanism**
 - **Mekanism Tools https://www.curseforge.com/minecraft/mc-mods/mekanism-tools**
 - **Mekanism Generators https://www.curseforge.com/minecraft/mc-mods/mekanism-generators**
@@ -69,6 +80,7 @@ Use Forge
 - **Item Resistance https://www.curseforge.com/minecraft/mc-mods/itemresistance**
 - **Guns, Rockets, & Atomic Explosions https://www.curseforge.com/minecraft/mc-mods/atomic-bomb-1-16**
 - ~~**Obfuscate https://www.curseforge.com/minecraft/mc-mods/obfuscate**~~ Error! missing for 1.18.2 ish
+- ~~**Campfire Torches https://www.curseforge.com/minecraft/mc-mods/campfire-torches**~~ Error! missing for 1.18.2 ish
 - In-game account switcher https://www.curseforge.com/minecraft/mc-mods/in-game-account-switcher
 - Better 3rd Person https://www.curseforge.com/minecraft/mc-mods/better-third-person
 - Damage Tilt https://www.curseforge.com/minecraft/mc-mods/damage-tilt
@@ -83,7 +95,10 @@ Use Forge
 - **KubeJS https://www.curseforge.com/minecraft/mc-mods/kubejs**
 - **Compact Machines https://www.curseforge.com/minecraft/mc-mods/compact-machines**
 - **Caelus API https://www.curseforge.com/minecraft/mc-mods/caelus**
-- ~~**Lightest Lamp https://www.curseforge.com/minecraft/mc-mods/lightest-lamps**~~ Error! Missing for 1.18.2 ish
+- ~~**Lightest Lamp https://www.curseforge.com/minecraft/mc-mods/lightest-lamps**~~ Error! Missing for 1.18.2 ish. still [WIP](https://www.curseforge.com/minecraft/mc-mods/lightest-lamps-fabric?comment=39)
+- **Neon Craft 2 https://www.curseforge.com/minecraft/mc-mods/neon-craft-2-mod**
+- **Lucent https://www.curseforge.com/minecraft/mc-mods/lucent**
+- **Search light https://www.curseforge.com/minecraft/mc-mods/searchlight-forge**
 - ~~**Hwyla https://www.curseforge.com/minecraft/mc-mods/hwyla**~~ Error! Missing for 1.18.2 ish
 - ~~**Wawla https://www.curseforge.com/minecraft/mc-mods/wawla**~~ Error! Missing for 1.18.2 ish
 - **WTHIT https://www.curseforge.com/minecraft/mc-mods/wthit-forge**
@@ -150,6 +165,8 @@ Use Forge
 - Xplosives https://www.curseforge.com/minecraft/mc-mods/xplosives-mod
 - **Storage Drawers https://www.curseforge.com/minecraft/mc-mods/storage-drawers**
 - **Curios https://www.curseforge.com/minecraft/mc-mods/curios**
+- **Curious Lights https://www.curseforge.com/minecraft/mc-mods/curious-lights**
+- **Curious Lantern https://www.curseforge.com/minecraft/mc-mods/curious-lanterns**
 - **Biomes O' Plenty (PROPRIETARY) https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty**
 - **Connected Textures Mod https://www.curseforge.com/minecraft/mc-mods/ctm**
 - ~~**Chisel https://www.curseforge.com/minecraft/mc-mods/chisel**~~ Error! missing for 1.18.2 ish
@@ -192,6 +209,7 @@ Use Forge
 - **Macaw's Roofs https://www.curseforge.com/minecraft/mc-mods/macaws-roofs**
 - **Macaw's Windows https://www.curseforge.com/minecraft/mc-mods/macaws-windows**
 - **Macaw's Doors https://www.curseforge.com/minecraft/mc-mods/macaws-doors**
+- **Macaw's Lights & Lamps https://www.curseforge.com/minecraft/mc-mods/macaws-lights-and-lamps**
 - **FTB Library https://www.curseforge.com/minecraft/mc-mods/ftb-library-forge**
 - **FTB Teams https://www.curseforge.com/minecraft/mc-mods/ftb-teams-forge**
 - **FTB Quests https://www.curseforge.com/minecraft/mc-mods/ftb-quests-forge**
@@ -362,6 +380,11 @@ Use Forge
 - **Flytre Lib https://www.curseforge.com/minecraft/mc-mods/lib** whoah, lucky, you claimed `lib` name!!!
 - **Flytre Gun https://www.curseforge.com/minecraft/mc-mods/flytres-gun-mod**
 - **Expandability https://www.curseforge.com/minecraft/mc-mods/expandability**
+- ~~**Dank Storage https://www.curseforge.com/minecraft/mc-mods/dank-storage**~~ Error! Missing for 1.18.2 ish
+- ~~**Quantum Storage https://www.curseforge.com/minecraft/mc-mods/quantumstorage**~~ Error! missing for 1.18.2 ish
+- **Etherium https://www.curseforge.com/minecraft/mc-mods/etherium**
+- Simple Maps https://www.curseforge.com/minecraft/mc-mods/simple-maps
+- **Builders Addition https://www.curseforge.com/minecraft/mc-mods/buildersaddition**
 
 losing mods in **THICC** may / will break the entire world. **NEVER LOSE MODS IN THICC** if you can.
 Those mods are essentially used, library dependency, guaranteed lags no computer (hence shouldn't be removed if to resolve lag), and/or silly to remove.
