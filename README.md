@@ -384,6 +384,7 @@ Use Forge
 - ~~**Quantum Storage https://www.curseforge.com/minecraft/mc-mods/quantumstorage**~~ Error! missing for 1.18.2 ish
 - **Etherium https://www.curseforge.com/minecraft/mc-mods/etherium**
 - Simple Maps https://www.curseforge.com/minecraft/mc-mods/simple-maps
+- **Paucal https://www.curseforge.com/minecraft/mc-mods/paucal**
 - **Builders Addition https://www.curseforge.com/minecraft/mc-mods/buildersaddition**
 
 losing mods in **THICC** may / will break the entire world. **NEVER LOSE MODS IN THICC** if you can.
