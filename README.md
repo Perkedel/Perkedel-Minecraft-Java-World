@@ -1,6 +1,14 @@
 # Perkedel-MC-Java-World
 Perkedel's Minecraft Java Edition World Save
 
+# WARNING! This map is definitely not for you.
+We have declared since long that this is modded world. Why we warn you? Because last time I install mods for it this, my laptop lags severely.
+idk why, but obviously, whole lots of `class`es in every `jar`s.
+Therefore you need god-specced BEEFY THICC gaming PC which you won from Crypto Scalp war. Oh, *make sure to take of the knife after you stab to make them lose blood more*. jk lol!
+You need highest spec CPU you can find, such as AMD 5950x or Intel 12th Gen (Alder Lake, 12000 series) highest end i9 **&** Highest end GPU like AMD Radeon RX 6900 XT or Nvidia RTX 3090 Ti **no less!!**, lesser will explode your PC. you also need highest MHz RAM, not just large in size but also high in speed.
+You might also have to upgrade whenever new version of those came out. e.g. use AMD 7000 series 9 one & Never use less than DDR5 gen of RAM!!!
+Well you already know everything that has to be *Royce*.
+
 # Last ran version
 1.18.2 with Forge
 
@@ -8,20 +16,31 @@ Perkedel's Minecraft Java Edition World Save
 Use Forge
 
 ## Here mod!
-- Optifine
-- **ComputerCraft https://www.curseforge.com/minecraft/mc-mods/cc-tweaked**
-- **Create https://www.curseforge.com/minecraft/mc-mods/create**
+- Optifine https://optifine.net
+- **ComputerCraft https://www.curseforge.com/minecraft/mc-mods/cc-tweaked** ADVANCED COMPUTERITZATIONS LUA
+- **Create https://www.curseforge.com/minecraft/mc-mods/create** COMPREHENSIVE MECHANICS
 - **Flywheel https://www.curseforge.com/minecraft/mc-mods/flywheel**
-- **Just Enough Item & friends https://www.curseforge.com/minecraft/mc-mods/jei**
+- **Lucky Block https://www.curseforge.com/minecraft/mc-mods/lucky-block** MEME
+- **Lucky TNT https://www.curseforge.com/minecraft/mc-mods/luckytnt** MOAR TNT finally
+- **Extra TNT https://www.curseforge.com/minecraft/mc-mods/extra-tnt** MOAR TNT MOAR
+- **Just Enough Item & friends https://www.curseforge.com/minecraft/mc-mods/jei** ITEM INFO
 - **Just Enough Resources https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer**
 - **JEI Integration https://www.curseforge.com/minecraft/mc-mods/jei-integration**
+- **Just Enough Profession https://www.curseforge.com/minecraft/mc-mods/just-enough-professions-jep**
+- **Just Enough Effect Description https://www.curseforge.com/minecraft/mc-mods/just-enough-effect-descriptions-jeed**
 - **Neat https://www.curseforge.com/minecraft/mc-mods/neat**
+- **Not Enough Animation https://www.curseforge.com/minecraft/mc-mods/not-enough-animations**
+- **Zero Core https://www.curseforge.com/minecraft/mc-mods/zerocore**
 - **Polymorph https://www.curseforge.com/minecraft/mc-mods/polymorph**
 - **WorldEdit https://www.curseforge.com/minecraft/mc-mods/worldedit**
+- **Structurize https://www.curseforge.com/minecraft/mc-mods/structurize** Looks like some kind of world edit UI!!!
+- **Block UI https://www.curseforge.com/minecraft/mc-mods/blockui**
 - **Building Gadgets https://www.curseforge.com/minecraft/mc-mods/building-gadgets**
 - **Patchouli https://www.curseforge.com/minecraft/mc-mods/patchouli**
 - **Placebo https://www.curseforge.com/minecraft/mc-mods/placebo**
 - **Bookshelf https://www.curseforge.com/minecraft/mc-mods/bookshelf**
+- Tips https://www.curseforge.com/minecraft/mc-mods/tips
+- **TerraBlender https://www.curseforge.com/minecraft/mc-mods/terrablender**
 - **Entity Culling https://www.curseforge.com/minecraft/mc-mods/entityculling**
 - **KleeSlabs https://www.curseforge.com/minecraft/mc-mods/kleeslabs**
 - ~~**Wooden Hoppers https://www.curseforge.com/minecraft/mc-mods/wooden-hoppers**~~ Fabric
@@ -42,8 +61,13 @@ Use Forge
 - **Gauges & Switches https://www.curseforge.com/minecraft/mc-mods/redstone-gauges-and-switches**
 - **Extra Buttons https://www.curseforge.com/minecraft/mc-mods/extrabuttons**
 - **Kotlin https://www.curseforge.com/minecraft/mc-mods/kotlin-for-forge**
+- **Scalable Cat's Force https://www.curseforge.com/minecraft/mc-mods/scalable-cats-force**
 - **Better Compatibility Checker https://www.curseforge.com/minecraft/mc-mods/better-compatibility-checker**
 - **Trash Can https://www.curseforge.com/minecraft/mc-mods/trash-cans**
+- **Modular Routers https://www.curseforge.com/minecraft/mc-mods/modular-routers**
+- **Landmines https://www.curseforge.com/minecraft/mc-mods/landmines**
+- **Item Resistance https://www.curseforge.com/minecraft/mc-mods/itemresistance**
+- **Guns, Rockets, & Atomic Explosions https://www.curseforge.com/minecraft/mc-mods/atomic-bomb-1-16**
 - ~~**Obfuscate https://www.curseforge.com/minecraft/mc-mods/obfuscate**~~ Error! missing for 1.18.2 ish
 - In-game account switcher https://www.curseforge.com/minecraft/mc-mods/in-game-account-switcher
 - Better 3rd Person https://www.curseforge.com/minecraft/mc-mods/better-third-person
@@ -63,8 +87,10 @@ Use Forge
 - ~~**Hwyla https://www.curseforge.com/minecraft/mc-mods/hwyla**~~ Error! Missing for 1.18.2 ish
 - ~~**Wawla https://www.curseforge.com/minecraft/mc-mods/wawla**~~ Error! Missing for 1.18.2 ish
 - **WTHIT https://www.curseforge.com/minecraft/mc-mods/wthit-forge**
+- **Tiny Redstone https://www.curseforge.com/minecraft/mc-mods/tiny-redstone**
 - **Tiny Gates https://www.curseforge.com/minecraft/mc-mods/tiny-gates**
 - **Flux Networks https://www.curseforge.com/minecraft/mc-mods/flux-networks**
+- **Hammer Lib https://www.curseforge.com/minecraft/mc-mods/hammer-lib**
 - **Solar Flux https://www.curseforge.com/minecraft/mc-mods/solar-flux-reborn**
 - **McJtyLib https://www.curseforge.com/minecraft/mc-mods/mcjtylib**
 - **RFTools https://www.curseforge.com/minecraft/mc-mods/rftools-base**
@@ -91,6 +117,7 @@ Use Forge
 - **backslot https://www.curseforge.com/minecraft/mc-mods/backslot**
 - ~~**Equipment Tooltips https://www.curseforge.com/minecraft/mc-mods/equipment-tooltips**~~ Error! missing for 1.18.2 ish
 - **Better F3 https://www.curseforge.com/minecraft/mc-mods/betterf3**
+- **Feature NBT Deadlock be gone https://www.curseforge.com/minecraft/mc-mods/feature-nbt-deadlock-be-gone** Fix for 1.18 deadlock due to NBT override [here bug](https://bugs.mojang.com/browse/MC-246262), **Seems irreproducible in 1.19 yey!!! yeey?**
 - Clumps https://www.curseforge.com/minecraft/mc-mods/clumps (Just Server, needed)
 - FPS Reducer https://www.curseforge.com/minecraft/mc-mods/fps-reducer
 - ~~**Valkirie Lib https://www.curseforge.com/minecraft/mc-mods/valkyrielib**~~ Error! missing for 1.18.2 ish. weird, you skipped to 1.19!?!?!
@@ -110,9 +137,14 @@ Use Forge
 - **Architecturi API https://www.curseforge.com/minecraft/mc-mods/architectury-api**
 - **Cloth Config API https://www.curseforge.com/minecraft/mc-mods/cloth-config**
 - **Geckolib https://www.curseforge.com/minecraft/mc-mods/geckolib**
+- **Cucumber Library https://www.curseforge.com/minecraft/mc-mods/cucumber**
+- **Extended Crafting https://www.curseforge.com/minecraft/mc-mods/extended-crafting**
+- **More Buckets https://www.curseforge.com/minecraft/mc-mods/more-buckets**
+- **Pickle Tweaks https://www.curseforge.com/minecraft/mc-mods/pickle-tweaks**
 - **Iron Chests https://www.curseforge.com/minecraft/mc-mods/iron-chests**
 - **Iron Furnaces https://www.curseforge.com/minecraft/mc-mods/iron-furnaces**
 - ~~**Iron Shulker Boxes https://www.curseforge.com/minecraft/mc-mods/iron-shulker-boxes**~~ Error! missing for 1.18.2 ish
+- **Iron Jetpack https://www.curseforge.com/minecraft/mc-mods/iron-jetpacks**
 - Xplosives https://www.curseforge.com/minecraft/mc-mods/xplosives-mod
 - **Storage Drawers https://www.curseforge.com/minecraft/mc-mods/storage-drawers**
 - **Curios https://www.curseforge.com/minecraft/mc-mods/curios**
@@ -135,6 +167,7 @@ Use Forge
 - **Light Overlay https://www.curseforge.com/minecraft/mc-mods/light-overlay**
 - **Suplementaries https://www.curseforge.com/minecraft/mc-mods/supplementaries**
 - **Farmer's Delight https://www.curseforge.com/minecraft/mc-mods/farmers-delight**
+- **Nether's Delight https://www.curseforge.com/minecraft/mc-mods/nethers-delight**
 - **Ore Excavation https://www.curseforge.com/minecraft/mc-mods/ore-excavation**
 - **Citadel https://www.curseforge.com/minecraft/mc-mods/citadel**
 - **mmmmmmmmmmmmmmmmmmmmmm https://www.curseforge.com/minecraft/mc-mods/mmmmmmmmmmmm**
@@ -162,6 +195,7 @@ Use Forge
 - **FTB Quests https://www.curseforge.com/minecraft/mc-mods/ftb-quests-forge**
 - ~~**FTB Backups https://www.curseforge.com/minecraft/mc-mods/ftb-backups-forge**~~ Error! missing for 1.18.2 ish
 - **FTB Chunks https://www.curseforge.com/minecraft/mc-mods/ftb-chunks-forge**
+- **FTB Ultimine https://www.curseforge.com/minecraft/mc-mods/ftb-ultimine-forge**
 - **Balm https://www.curseforge.com/minecraft/mc-mods/balm**
 - **Client Tweaks https://www.curseforge.com/minecraft/mc-mods/client-tweaks**
 - **Immersive Engineering https://www.curseforge.com/minecraft/mc-mods/immersive-engineering**
@@ -169,7 +203,6 @@ Use Forge
 - **Yung's better mineshaft https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-forge**
 - **Yung's better Dungeon https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons**
 - **Yung's better Stronghold https://www.curseforge.com/minecraft/mc-mods/yungs-better-strongholds**
-- **Cucumber Library https://www.curseforge.com/minecraft/mc-mods/cucumber**
 - **Botania https://www.curseforge.com/minecraft/mc-mods/botania**
 - **Botania garden of glass https://www.curseforge.com/minecraft/mc-mods/botania-garden-of-glass**
 - Toast Control https://www.curseforge.com/minecraft/mc-mods/toast-control
@@ -224,10 +257,12 @@ Use Forge
 - **Bdlib https://www.curseforge.com/minecraft/mc-mods/bdlib**
 - Swing Through Grass https://www.curseforge.com/minecraft/mc-mods/swingthroughgrass
 - **Common Capabilities https://www.curseforge.com/minecraft/mc-mods/common-capabilities**
-- **Valhelsia Core https://www.curseforge.com/minecraft/mc-mods/valhelsia-core**
+- ~~**Valhelsia Core https://www.curseforge.com/minecraft/mc-mods/valhelsia-core**~~ Broken
 - **Rhino https://www.curseforge.com/minecraft/mc-mods/rhino**
 - Inventory HUD+ https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge
+- **Sophisticated Core https://www.curseforge.com/minecraft/mc-mods/sophisticated-core**
 - **Sophisticated Backpacks https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks**
+- **Sophisticated Storage https://www.curseforge.com/minecraft/mc-mods/sophisticated-storage**
 - **Blood magic https://www.curseforge.com/minecraft/mc-mods/blood-magic**
 - **Blueprint https://www.curseforge.com/minecraft/mc-mods/blueprint**
 - **Berry Good https://www.curseforge.com/minecraft/mc-mods/berry-good**
@@ -251,6 +286,7 @@ Use Forge
 - **Apotheosis https://www.curseforge.com/minecraft/mc-mods/apotheosis**
 - **Oh the Biomes you'll go https://www.curseforge.com/minecraft/mc-mods/oh-the-biomes-youll-go**
 - **Nether Portal Fix https://www.curseforge.com/minecraft/mc-mods/netherportalfix**
+- **Electrodynamics https://www.curseforge.com/minecraft/mc-mods/electrodynamics**
 - **Dynamic Electricity https://www.curseforge.com/minecraft/mc-mods/dynamic-electricity**
 - **Cool Electric Stuff https://www.curseforge.com/minecraft/mc-mods/cool-electric-stuff-mod**
 - **Camera https://www.curseforge.com/minecraft/mc-mods/camera-mod**
@@ -280,6 +316,46 @@ Use Forge
 - ~~**Bountiful https://www.curseforge.com/minecraft/mc-mods/bountiful**~~ Error! missing for 1.18.2 ish
 - Ding https://www.curseforge.com/minecraft/mc-mods/ding
 - **Evilcraft https://www.curseforge.com/minecraft/mc-mods/evilcraft**
+- **Artifacts https://www.curseforge.com/minecraft/mc-mods/artifacts**
+- **Mine Colonies https://www.curseforge.com/minecraft/mc-mods/minecolonies**
+- **Mine Colonies Resource Pack https://www.curseforge.com/minecraft/mc-addons/minecolonies-immersed** This is Resource Pack!
+- **Multi-piston https://www.curseforge.com/minecraft/mc-mods/multi-piston**
+- **Domum Ornamentum https://www.curseforge.com/minecraft/mc-mods/domum-ornamentum**
+- **Tip The Scales https://www.curseforge.com/minecraft/mc-mods/tipthescales**
+- JEI Tweaker https://www.curseforge.com/minecraft/mc-mods/jeitweaker
+- Skin Layers 3D https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d
+- **Construction Wand https://www.curseforge.com/minecraft/mc-mods/construction-wand**
+- **Guard Villager https://www.curseforge.com/minecraft/mc-mods/guard-villagers**
+- Clean Cut https://www.curseforge.com/minecraft/mc-mods/cleancut
+- **Puzzles Lib https://www.curseforge.com/minecraft/mc-mods/puzzles-lib**
+- Trash Slot https://www.curseforge.com/minecraft/mc-mods/trashslot
+- ~~**Rustic https://www.curseforge.com/minecraft/mc-mods/rustic**~~ Error! missing for 1.18.2 ish
+- **Goblin Traders https://www.curseforge.com/minecraft/mc-mods/goblin-traders**
+- Simple Discord RPC https://www.curseforge.com/minecraft/mc-mods/simple-discord-rpc
+- **PneumaticCraft Repressurized https://www.curseforge.com/minecraft/mc-mods/pneumaticcraft-repressurized**
+- **Creeper Overhaul https://www.curseforge.com/minecraft/mc-mods/creeper-overhaul**
+- **Snow Real Magic https://www.curseforge.com/minecraft/mc-mods/snow-real-magic**
+- **Kiwi https://www.curseforge.com/minecraft/mc-mods/kiwi**
+- **Find Me https://www.curseforge.com/minecraft/mc-mods/findme**
+- **Chipped https://www.curseforge.com/minecraft/mc-mods/chipped**
+- **Forbidden & Arcanus https://www.curseforge.com/minecraft/mc-mods/forbidden-arcanus**
+- **Extreme Reactors https://www.curseforge.com/minecraft/mc-mods/extreme-reactors**
+- **Security Craft https://www.curseforge.com/minecraft/mc-mods/security-craft**
+- ~~**Immersive Petroleum https://www.curseforge.com/minecraft/mc-mods/immersive-petroleum**~~ Error! missinf for 1.18.2 ish. Pls wait, port there WIP
+- **Lootr https://www.curseforge.com/minecraft/mc-mods/lootr**
+- **Pekhui https://www.curseforge.com/minecraft/mc-mods/pehkui**
+- **Hypixel Lucky Block https://www.curseforge.com/minecraft/mc-mods/hypixel-lucky-blocks**
+- **TNT Food https://www.curseforge.com/minecraft/mc-mods/tnt-foods-mod**
+- ~~Explosive Coal https://www.curseforge.com/minecraft/mc-mods/coal-explosion~~ Not a good idea
+- ~~Realistic Block Physics https://www.curseforge.com/minecraft/mc-mods/realistic-block-physics~~ Not a good idea, would destroy many buildings & caves!!!
+- **Realistic Explosion Physics https://www.curseforge.com/minecraft/mc-mods/realistic-explosion-physics**
+- Throwable Explosives https://www.curseforge.com/minecraft/mc-mods/throwable-explosives
+- **Teeny Coal https://www.curseforge.com/minecraft/mc-mods/teenycoal**
+- **More Charcoal https://www.curseforge.com/minecraft/mc-mods/more-charcoal**
+- **Tiny Skeleton https://www.curseforge.com/minecraft/mc-mods/tiny-skeletons-forge**
+- **Kobolds https://www.curseforge.com/minecraft/mc-mods/kobolds**
+- **Connectivity https://www.curseforge.com/minecraft/mc-mods/connectivity**
+- **bad packets https://www.curseforge.com/minecraft/mc-mods/badpackets**
 
 losing mods in **THICC** may / will break the entire world. **NEVER LOSE MODS IN THICC** if you can.
 Those mods are essentially used, library dependency, guaranteed lags no computer (hence shouldn't be removed if to resolve lag), and/or silly to remove.
