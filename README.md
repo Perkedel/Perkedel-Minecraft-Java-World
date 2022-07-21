@@ -162,7 +162,7 @@ Use Forge
 - **Iron Furnaces https://www.curseforge.com/minecraft/mc-mods/iron-furnaces**
 - ~~**Iron Shulker Boxes https://www.curseforge.com/minecraft/mc-mods/iron-shulker-boxes**~~ Error! missing for 1.18.2 ish
 - **Iron Jetpack https://www.curseforge.com/minecraft/mc-mods/iron-jetpacks**
-- Xplosives https://www.curseforge.com/minecraft/mc-mods/xplosives-mod
+- ~~**Xplosives https://www.curseforge.com/minecraft/mc-mods/xplosives-mod**~~ Brogen!
 - **Storage Drawers https://www.curseforge.com/minecraft/mc-mods/storage-drawers**
 - **Curios https://www.curseforge.com/minecraft/mc-mods/curios**
 - **Curious Lights https://www.curseforge.com/minecraft/mc-mods/curious-lights**
