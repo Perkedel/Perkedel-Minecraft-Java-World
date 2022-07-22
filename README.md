@@ -16,10 +16,13 @@ Well you already know everything that has to be *Royce*.
 Use Forge
 
 ## Here mod!
+- **No Chat Report https://modrinth.com/mod/no-chat-reports** for since 1.19+ only!
+- No Telemetry https://modrinth.com/mod/no-telemetry
 - Optifine https://optifine.net
 - Not Enough Crashes https://modrinth.com/mod/notenoughcrashes
 - Observable https://www.curseforge.com/minecraft/mc-mods/observable Lag Observer
 - Why you make lag https://www.curseforge.com/minecraft/mc-mods/wyml
+- Starlight https://modrinth.com/mod/starlight-forge/
 - ~~**Better FPS https://www.curseforge.com/minecraft/mc-mods/betterfps**~~ Error! Missing for 1.18.2 ish
 - **Smooth Chunk Save https://www.curseforge.com/minecraft/mc-mods/smooth-chunk-save**
 - **Limited Chunk Loading https://www.curseforge.com/minecraft/mc-mods/limited-chunkloading**
@@ -204,6 +207,7 @@ Use Forge
 - ~~**Twilight Forest https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest**~~ Error! Incompatible with OptiFine
 - ~~**Rubidium https://www.curseforge.com/minecraft/mc-mods/rubidium**~~ Error! Incompatible with OptiFine
 - **Magnesium / Rubidium Dynamic lights https://www.curseforge.com/minecraft/mc-mods/dynamiclights-reforged**
+- **Magnesium Extras https://www.curseforge.com/minecraft/mc-mods/magnesium-extras/**
 - ~~**Oculus https://www.curseforge.com/minecraft/mc-mods/oculus**~~ Error! Incompatible with OptiFine, but takes its shaderpack
 - **Attribute Fix https://www.curseforge.com/minecraft/mc-mods/attributefix**
 - **Comforts https://www.curseforge.com/minecraft/mc-mods/comforts**
@@ -414,6 +418,7 @@ Use Forge
 - **akkamaddi's Simple Tungsten https://www.curseforge.com/minecraft/mc-mods/akkamaddis-simple-tungsten**
 - **Simple Core API https://www.curseforge.com/minecraft/mc-mods/simplecore-api**
 - ~~**Performant https://www.curseforge.com/minecraft/mc-mods/performant Performance improve**~~ Error! missing for 1.18.2 ish. **NEWER VERSION STILL WIP & THAT IS PAYWALLED PATREON**
+- Loader Complex https://modrinth.com/mod/loadercomplex Simple Mod library that is compatible for all mod loaders
 
 losing mods in **THICC** may / will break the entire world. **NEVER LOSE MODS IN THICC** if you can.
 Those mods are essentially used, library dependency, guaranteed lags no computer (hence shouldn't be removed if to resolve lag), and/or silly to remove.
