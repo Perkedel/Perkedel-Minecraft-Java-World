@@ -21,9 +21,9 @@ Use Forge
 - Observable https://www.curseforge.com/minecraft/mc-mods/observable Lag Observer
 - Why you make lag https://www.curseforge.com/minecraft/mc-mods/wyml
 - ~~**Better FPS https://www.curseforge.com/minecraft/mc-mods/betterfps**~~ Error! Missing for 1.18.2 ish
-- **Smooth Chunk Save https://www.curseforge.com/minecraft/mc-mods/smooth-chunk-save** Is this the same guy that paywalled WIP Performant?
-- **Limited Chunk Loading https://www.curseforge.com/minecraft/mc-mods/limited-chunkloading** Yep! but pls no war, YET.
-- **Better FPS https://www.curseforge.com/minecraft/mc-mods/better-fps-render-distance** Those messages will be removed next commit
+- **Smooth Chunk Save https://www.curseforge.com/minecraft/mc-mods/smooth-chunk-save**
+- **Limited Chunk Loading https://www.curseforge.com/minecraft/mc-mods/limited-chunkloading**
+- **Better FPS https://www.curseforge.com/minecraft/mc-mods/better-fps-render-distance**
 - **Drawer FPS https://www.curseforge.com/minecraft/mc-mods/drawerfps** GOren. This is for Storage Drawer mod
 - **Entity Collision FPS fix https://www.curseforge.com/minecraft/mc-mods/entity-collision-fps-fix**
 - **More Culling https://www.curseforge.com/minecraft/mc-mods/moreculling**
