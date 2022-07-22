@@ -46,6 +46,10 @@ Use Forge
 - **Lucky Block https://www.curseforge.com/minecraft/mc-mods/lucky-block** MEME
 - **Lucky TNT https://www.curseforge.com/minecraft/mc-mods/luckytnt** MOAR TNT finally
 - **Extra TNT https://www.curseforge.com/minecraft/mc-mods/extra-tnt** MOAR TNT MOAR
+- **Roughly Enough Items https://modrinth.com/mod/roughly-enough-items** Alt of JEI
+- **Roughly Enough Items JEI Compats https://modrinth.com/mod/roughly-enough-items-hacks**
+- **Roughly Enough Profession https://modrinth.com/mod/roughly-enough-professions-rep**
+- ~~**Roughly Enough Items Server Component https://modrinth.com/mod/roughly-enough-items-server-component**~~ No need, this is for server whose client still uses JEI. Full REI should cover this.
 - **Just Enough Item & friends https://www.curseforge.com/minecraft/mc-mods/jei** ITEM INFO
 - **Just Enough Resources https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer**
 - **JEI Integration https://www.curseforge.com/minecraft/mc-mods/jei-integration**
