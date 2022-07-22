@@ -42,8 +42,12 @@ Use Forge
 - **Patchouli https://www.curseforge.com/minecraft/mc-mods/patchouli**
 - **Placebo https://www.curseforge.com/minecraft/mc-mods/placebo**
 - **Bookshelf https://www.curseforge.com/minecraft/mc-mods/bookshelf**
+- **Crossroads https://www.curseforge.com/minecraft/mc-mods/crossroads-mc**
+- **Essentials https://www.curseforge.com/minecraft/mc-mods/essentials**
 - Dynamic Lights https://www.curseforge.com/minecraft/mc-mods/dynamic-lights
 - Tips https://www.curseforge.com/minecraft/mc-mods/tips
+- **Fusion https://www.curseforge.com/minecraft/mc-mods/fusion**
+- **EXP Bottling https://www.curseforge.com/minecraft/mc-mods/exp-bottling**
 - **TerraBlender https://www.curseforge.com/minecraft/mc-mods/terrablender**
 - **Entity Culling https://www.curseforge.com/minecraft/mc-mods/entityculling**
 - **KleeSlabs https://www.curseforge.com/minecraft/mc-mods/kleeslabs**
@@ -65,6 +69,7 @@ Use Forge
 - **Mekanism https://www.curseforge.com/minecraft/mc-mods/mekanism**
 - **Mekanism Tools https://www.curseforge.com/minecraft/mc-mods/mekanism-tools**
 - **Mekanism Generators https://www.curseforge.com/minecraft/mc-mods/mekanism-generators**
+- **Better Fusion Reactor for Mekanism https://www.curseforge.com/minecraft/mc-mods/better-fusion-reactor-for-mekanism**
 - **Item Filters https://www.curseforge.com/minecraft/mc-mods/item-filters**
 - **Simple Storage Network https://www.curseforge.com/minecraft/mc-mods/simple-storage-network**
 - **ReAuth https://www.curseforge.com/minecraft/mc-mods/reauth**
@@ -386,6 +391,8 @@ Use Forge
 - Simple Maps https://www.curseforge.com/minecraft/mc-mods/simple-maps
 - **Paucal https://www.curseforge.com/minecraft/mc-mods/paucal**
 - **Builders Addition https://www.curseforge.com/minecraft/mc-mods/buildersaddition**
+- **akkamaddi's Simple Tungsten https://www.curseforge.com/minecraft/mc-mods/akkamaddis-simple-tungsten**
+- **Simple Core API https://www.curseforge.com/minecraft/mc-mods/simplecore-api**
 
 losing mods in **THICC** may / will break the entire world. **NEVER LOSE MODS IN THICC** if you can.
 Those mods are essentially used, library dependency, guaranteed lags no computer (hence shouldn't be removed if to resolve lag), and/or silly to remove.
