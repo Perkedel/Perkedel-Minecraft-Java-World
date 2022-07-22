@@ -17,6 +17,23 @@ Use Forge
 
 ## Here mod!
 - Optifine https://optifine.net
+- Not Enough Crashes https://modrinth.com/mod/notenoughcrashes
+- Observable https://www.curseforge.com/minecraft/mc-mods/observable Lag Observer
+- Why you make lag https://www.curseforge.com/minecraft/mc-mods/wyml
+- ~~**Better FPS https://www.curseforge.com/minecraft/mc-mods/betterfps**~~ Error! Missing for 1.18.2 ish
+- **Smooth Chunk Save https://www.curseforge.com/minecraft/mc-mods/smooth-chunk-save** Is this the same guy that paywalled WIP Performant?
+- **Limited Chunk Loading https://www.curseforge.com/minecraft/mc-mods/limited-chunkloading** Yep! but pls no war, YET.
+- **Better FPS https://www.curseforge.com/minecraft/mc-mods/better-fps-render-distance** Those messages will be removed next commit
+- **Drawer FPS https://www.curseforge.com/minecraft/mc-mods/drawerfps** GOren. This is for Storage Drawer mod
+- **Entity Collision FPS fix https://www.curseforge.com/minecraft/mc-mods/entity-collision-fps-fix**
+- **More Culling https://www.curseforge.com/minecraft/mc-mods/moreculling**
+- **Distant Horizon https://www.curseforge.com/minecraft/mc-mods/distant-horizons** See beyond horizon less lag!
+- It shall not tick https://www.curseforge.com/minecraft/mc-mods/it-shall-not-tick
+- **No Chat Lag https://www.curseforge.com/minecraft/mc-mods/nochatlag**
+- **Forget Me Chunk https://www.curseforge.com/minecraft/mc-mods/forgetmechunk-forge**
+- ~~Lag Removal https://www.curseforge.com/minecraft/mc-mods/lag-removal~~ this removes entities. maybe later.
+- ~~No lag datapack https://www.planetminecraft.com/data-pack/no-lag-datapack/~~ 1.19+ only Datapack. later.
+- **Antilag Datapack https://www.planetminecraft.com/data-pack/antilag-the-best-anti-lag-for-your-minecraft-worlds/** This also seems clear entities
 - **Smooth Boot https://www.curseforge.com/minecraft/mc-mods/smooth-boot-reloaded** [old](https://www.curseforge.com/minecraft/mc-mods/smooth-boot-forge)
 - **Fastload https://www.curseforge.com/minecraft/mc-mods/fastload**
 - **ComputerCraft https://www.curseforge.com/minecraft/mc-mods/cc-tweaked** ADVANCED COMPUTERITZATIONS LUA
@@ -84,6 +101,8 @@ Use Forge
 - **Landmines https://www.curseforge.com/minecraft/mc-mods/landmines**
 - **Item Resistance https://www.curseforge.com/minecraft/mc-mods/itemresistance**
 - **Guns, Rockets, & Atomic Explosions https://www.curseforge.com/minecraft/mc-mods/atomic-bomb-1-16**
+- ~~**Storage Overhaul https://www.curseforge.com/minecraft/mc-mods/storage-overhaul**~~ Error! missing for 1.18.2 ish
+- ~~**Storage Overhaul Upgrader https://www.curseforge.com/minecraft/mc-mods/storage-overhaul-chest-upgrader**~~ Error! missing for 1.18.2 ish
 - ~~**Obfuscate https://www.curseforge.com/minecraft/mc-mods/obfuscate**~~ Error! missing for 1.18.2 ish
 - ~~**Campfire Torches https://www.curseforge.com/minecraft/mc-mods/campfire-torches**~~ Error! missing for 1.18.2 ish
 - In-game account switcher https://www.curseforge.com/minecraft/mc-mods/in-game-account-switcher
@@ -184,6 +203,7 @@ Use Forge
 - **Tinker's Construct https://www.curseforge.com/minecraft/mc-mods/tinkers-construct**
 - ~~**Twilight Forest https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest**~~ Error! Incompatible with OptiFine
 - ~~**Rubidium https://www.curseforge.com/minecraft/mc-mods/rubidium**~~ Error! Incompatible with OptiFine
+- **Magnesium / Rubidium Dynamic lights https://www.curseforge.com/minecraft/mc-mods/dynamiclights-reforged**
 - ~~**Oculus https://www.curseforge.com/minecraft/mc-mods/oculus**~~ Error! Incompatible with OptiFine, but takes its shaderpack
 - **Attribute Fix https://www.curseforge.com/minecraft/mc-mods/attributefix**
 - **Comforts https://www.curseforge.com/minecraft/mc-mods/comforts**
@@ -393,6 +413,7 @@ Use Forge
 - **Builders Addition https://www.curseforge.com/minecraft/mc-mods/buildersaddition**
 - **akkamaddi's Simple Tungsten https://www.curseforge.com/minecraft/mc-mods/akkamaddis-simple-tungsten**
 - **Simple Core API https://www.curseforge.com/minecraft/mc-mods/simplecore-api**
+- ~~**Performant https://www.curseforge.com/minecraft/mc-mods/performant Performance improve**~~ Error! missing for 1.18.2 ish. **NEWER VERSION STILL WIP & THAT IS PAYWALLED PATREON**
 
 losing mods in **THICC** may / will break the entire world. **NEVER LOSE MODS IN THICC** if you can.
 Those mods are essentially used, library dependency, guaranteed lags no computer (hence shouldn't be removed if to resolve lag), and/or silly to remove.
